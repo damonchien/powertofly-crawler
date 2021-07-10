@@ -2,9 +2,9 @@ import os, sys, json, requests
 from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 
-from config import powertofly_url
-from detail import JobDetail
-from log import logs
+from bin.crawler.config import powertofly_url
+from bin.crawler.detail import JobDetail
+from bin.crawler.log import logs
 
 job_list_dict = powertofly_url["job_list"]
 job_detail_dict = powertofly_url["job_detail"]
