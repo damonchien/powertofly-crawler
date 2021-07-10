@@ -50,7 +50,7 @@ def Write2Json(data):
 
 def CheckId(job_path):
     job = "job_"+job_path.split('/')[-1]+".json"
-    if job not in os.listdir('../output/'):
+    if job not in os.listdir('./output/'):
         return 0
     return 1
 
