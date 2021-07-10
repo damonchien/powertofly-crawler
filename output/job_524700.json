@@ -1,0 +1,17 @@
+{
+    "JobId": "524700",
+    "JobTitle": "Full-Stack Software Engineer - Marketplace",
+    "JobFullDesc": "About the RoleThe Driver Incentives team builds the platform for generating efficient incentives for drivers, measuring progress of drivers towards achieving those incentives and then paying once incentive goals are achieved. It plays a critical role in ensuring adequate supply to meet the market demands across time and space. The combination of technical challenges and cross functional work will allow you to grow as a software engineer in any dimension.What You'll DoDesign and development of driver incentive front-end systems and mobile experiences.Design, implement and maintain systems, APIs for offer generation, incentive state management and Incentive user experienceWork cross functionally with adjacent engineering teams to deliver best in breed experience to Drivers.Collaborate closely with Product Managers, Product Designers, Prod Ops, Central Operations teams and have an opportunity to craft the future of incentives at Uber.\u00a0Basic QualificationsStrong web development experience in programming languages such as Javascript, TypeScript, HTML and CSSExperience working with web application development frameworks such as NodeJS, React, Redux, Angular, Next or similarExperience with object oriented programming languages, like Go, Java, PythonExperience building microservices and API\u00a0Preferred Qualifications4+ years of industry experience in Full-stack development.Experience with React and Node.jsExperience building large scale distributed systemsExperience with Big Data/SparkExperience with Machine LearningExperience with optimizationGood understanding of statistics/econometricsProven experience of shipping high-quality features on scheduleExperience implementing sophisticated projects with multiple dependenciesCuriosity to learn the rideshare business!\u00a0About The TeamThe team is responsible for developing a platform for all Uber rides incentive budget allocation globally, a manual driver campaign generation tool and presenting driver incentive offers via web-view experience on iOS and Android. We are also actively developing a UI platform to automate and standardize the UI development process, which will power all marketplace investments web tooling.",
+    "JobPostTime": 1625792826,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Sunnyvale",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

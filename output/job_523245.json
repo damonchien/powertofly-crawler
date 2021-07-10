@@ -1,0 +1,23 @@
+{
+    "JobId": "523245",
+    "JobTitle": "Senior UX Designer",
+    "JobFullDesc": "At Rockstar Games, we create world-class entertainment experiences.\nA career at Rockstar Games is about being part of a team working on some of the most creatively rewarding and ambitious projects to be found in any entertainment medium. You would be welcomed to a dedicated and inclusive environment where you can learn, and collaborate with some of the most talented people in the industry.\nRockstar North is on the lookout for a talented UX Designer who possesses a passion for video game content authoring tools and solutions. This is a full-time permanent position based out of Rockstar\u2019s unique game development studio in the heart of Edinburgh.\nWHAT WE DO\n\nWe create and maintain software tools that are used by all game development disciplines to support the creation of all Rockstar Games projects.\nThese software tools range from digital content exporters, a data processing asset pipeline to game, CI/CD automation systems and UI editors.\n\nRESPONSIBILITIES\n\nWork with artists/animators and tools developers to ensure that new tools and features have UX considered from conception through to early testing and beyond.\nReview existing tools and workflows with artists and animators using established UX techniques to identify and document problem areas in their workflows.\nEnsure consistency across tools, particularly where content creators are spanning multiple tools in their workflow.\nWork with our developers to provide expertise and assist in documenting our tools.\n\nQUALIFICATIONS\n\n5+ years of experience as a UX Designer or Interaction Designer.\u00a0\nA degree in Human-Computer Interaction (HCI) or a relevant field (design, software engineering) or equivalent qualifications or experience in a field of UX.\nA portfolio or work samples demonstrating relevant experience.\n\nSKILLS\n\nVery strong interpersonal and communication skills.\nExcellent writing skills.\nNatural curiosity for how video game content is authored and a desire to learn.\nExperience using wireframing and prototyping with industry standard UX software such as Balsamiq or Sketch.\nDeep understanding of UX design practices and user-centred design (UCD).\nProven ability to turn broad discussions of ideas into actionable development tasks that solve workflow and user interaction problems.\n\nPLUSES\nPlease note that these are desirable skills and are not required to apply for the position.\n\nStrong interest and understanding of game development tools.\nExperience with telemetry and analytics.\nExperience in technical art or tools development.\n\nHOW TO APPLY\nPlease apply with a CV and cover-letter demonstrating how you meet the skills above.\u00a0 If we would like to move forward with your application, a Rockstar recruiter will reach out to you to explain next steps and guide you through the process.\nRockstar is proud to be an equal opportunity employer, and we are committed to hiring, promoting, and compensating employees based on their qualifications and demonstrated ability to perform job responsibilities.\nIf you\u2019ve got the right skills for the job, we want to hear from you. We encourage applications from all suitable candidates regardless of age, disability, gender identity, sexual orientation, religion, belief, or race.",
+    "JobPostTime": 1625774646,
+    "CompName": "Rockstar Games",
+    "CompUrl": "https://powertofly.com/companies/rockstar-games",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Edinburgh",
+            "addressRegion": "",
+            "addressCountry": "GB"
+        },
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressRegion": "",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

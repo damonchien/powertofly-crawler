@@ -1,0 +1,17 @@
+{
+    "JobId": "524172",
+    "JobTitle": "Security Engineering Manager II - Detection Engineering",
+    "JobFullDesc": "About the RoleWe are seeking a Security Engineering Manager with technical depth, security intuition, and entrepreneurial spirit to join our Threat Defense & Response team! This innovator will lead the Threat Detection program that detects and tracks cybersecurity threats of all types. You'll collaborate with cross-functional teams to create innovative detection strategies and help develop a best-in-class threat detection program. You will help build a larger external threat detection community benefiting security defenders globally.About the Team:The Threat Detection team translates our understanding of threats into detection logic to find badness at scale. Our mission is to detect malicious activity early enough for Uber to mitigate before significant business impact, reducing time to detect. We defend against threats to Uber\u2019s services, infrastructure, and millions of users worldwide.What You\u2019ll Do\u00a0* Drive a talented team to innovate, build, and refine advanced threat detections.* Define roadmap, prioritization and key metrics.* Drive cross organizational detection initiatives.* Help talented engineers develop toward their goals* Partner with other engineering teams, including incident response, to achieve cross-organizational goals.* Inspire and empower your team through mentorship, professional development and connecting their work to our strategy.* Grow the team by attracting and hiring top talent, both internally and externally.\u00a0\u00a0Basic Qualifications* 4+ years of experience as an engineer working in the security domain* 2+ years of experience leading or serving as the senior technical lead of a security team* Experience with of security logging for Linux, macOS, or Windows\u00a0* Experience building detection logic utilizing security logs to detect malicious activity with high fidelity across a broad set of detection use cases.* Understanding of adversary capabilities, infrastructure, and techniques.* Experience with tools and techniques for analyzing large security datasets\u00a0\u00a0Preferred Qualifications\u00a0* Ability to set and achieve buy-in for strategic vision for the program* Ability to set roadmaps and hit targets in a high pace environment* Ability to drive a small team to innovative solutions* Are comfortable generating automated metrics to measure service and program effectiveness and consistency* Experience performing threat modeling and design reviews to identify new detection use cases.* Ability to communicate ideas and proposals concisely, both verbally and written, to senior staff members* Familiarity building detections mapped to the MITRE ATT&CK matrix* A solid understanding of information security standards & methodologies* Ability to distill complex security problems and drive toward creative solutions* Strong organizational and relationship skills* Strong verbal and written communication and presentation skills\u00a0* Ability to make concrete progress in the face of ambiguity and imperfect knowledge (avoid \u201canalysis paralysis\u201d)* Strong sense of ownership, urgency, and drive.",
+    "JobPostTime": 1625792664,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Dallas",
+            "addressRegion": "TX",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

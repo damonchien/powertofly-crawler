@@ -1,0 +1,17 @@
+{
+    "JobId": "524967",
+    "JobTitle": "Software Engineer II",
+    "JobFullDesc": "The Hardware Control Service (HCS) team is responsible for building and operating world class software services for Azure hardware infrastructure development.\u00a0 Hardware Control Services provide a platform for telemetry gathering and failure detection policies processing, delivers post-failure root cause analysis, and enables FW deployment through infrastructure tooling and health/progress monitoring. The HCS team is constantly innovating on the infrastructure to meet the growing needs for Azure across regions and customers.\u00a0\u00a0\u00a0\u00a0We live and breathe the engineering culture that many web companies (both large and small) are increasingly adopting, where a single engineer wears all the hats necessary to design, implement, validate and release great features. We collaborate closely with product teams at Microsoft as well as internally to ensure we are maximizing efficiency in the system.\u00a0#CHIE\u00a0 #AZURE\u00a0 #Cloud\u00a0ResponsibilitiesDesign, build and run services at high scale and\u00a0availability\u00a0Perform live site/dev ops engineering for services with top notch monitoring, dashboards and troubleshooting\u00a0guides\u00a0Promote practices that ensure high-quality, scalability, stability and\u00a0performance\u00a0QualificationsQualifications:\u00a0\u2022 5+ years of designing, implementing\u00a0microservices and hands on\u00a0code in any of the following languages (C#/C/C++/Java)\u00a0\u2022 5+ years of operating microservices including being part of on call rotation and debugging live site\u00a0issues\u00a0\u00a0\u2022 2+ years of mentoring engineers\u00a0\u00a0\u00a0Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirementsinclude,\u00a0but\u00a0are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.\u00a0Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.\u00a0 We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request\u00a0via the\u00a0Accommodation request form.\u00a0Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "JobPostTime": 1625792985,
+    "CompName": "Microsoft Corporation",
+    "CompUrl": "https://powertofly.com/companies/microsoft-corporation",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Redmond",
+            "addressRegion": "WA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

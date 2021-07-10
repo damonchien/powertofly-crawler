@@ -1,0 +1,17 @@
+{
+    "JobId": "495238",
+    "JobTitle": "SENIOR SQL DATABASE ADMINISTRATOR",
+    "JobFullDesc": "RESPONSIBILITIES\n\n\nManage SQL Server databases, configure and maintain database servers and processes to ensure site stability. \nMonitor system health and performance, to ensure high levels of performance, availability, sustainability, security, and compliance\nAnalyze, investigate, troubleshoot, and resolve issues in real-time, communicate critical issues, and coordinate incident recovery\nRefine and automate regular processes, track issues, and document changes\nCollaborate with development teams to assist in query tuning and schema refinement\nReview SQL code reviews submitted by developers from performance, scalability & security perspectives\nWork with our reporting and analytics teams to maintain existing reporting infrastructure \nOff-hours support is required as needed.\n\nREQUIRED SKILLS\n\n\n5 years of experience as a SQL Server DBA or similar role\n5 years of experience with Performance Tuning and Optimization\n5 years of experience with backups, restores, and recovery models\nExperience with High Availability (HA) and Disaster Recovery (DR) options for SQL Server on AWS\nExpert in T-SQL DDL/DML with proficiency in scripting and SSIS \nFamiliarity with SQL and NoSQL database management on Amazon Web Services (AWS) cloud platform, using EC2, RDS & DynamoDB, with additional knowledge of PostgreSQL, MongoDB, etc.\nUnderstanding of Change Data Capture\nKnowledge of Windows server, including Active Directory\nSolid knowledge of SQL Server isolation levels, transaction processing, batch processing, lock escalation, error handling fundamentals\nOpen to working with new and emerging technologies, taking a database-agnostic approach.\nAdept critical thinker with strong problem-solving skills\nTeam player with great interpersonal and communication skills\n\nPREFERRED SKILLS\n\n\nExperience with writing infrastructure as code \nExperience with Windows PowerShell or Python\nExposure to working inside an Agile development organization\n",
+    "JobPostTime": 1625772441,
+    "CompName": "uShip, Inc.",
+    "CompUrl": "https://powertofly.com/companies/uship-inc",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Austin",
+            "addressRegion": "TX",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

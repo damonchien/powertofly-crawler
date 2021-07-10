@@ -1,0 +1,17 @@
+{
+    "JobId": "523686",
+    "JobTitle": "Staff Machine Learning Engineer",
+    "JobFullDesc": "\u00a0About the Role\u00a0Uber Marketplace (https://marketplace.uber.com/) is at the core of Uber\u2019s business, and rider pricing and incentives are strategically critical components of Marketplace. The mission of the team is to foster growth and increase profitability of Uber by pushing the frontiers of machine learning, data science and economics and developing highly reliable and scalable platforms to accelerate Uber\u2019s impact to the transportation industry. The team is rapidly growing with high impact and visibility from the top. We are responsible for developing state of the art technology to optimize the pricing and incentives strategy in our platform that directly drives efficiencies and effectiveness across rider interaction with Uber. We handle a significant trunk of all the pricing and incentives budget we are spending at Uber and we aim to build long-term loyalty among Uber riders and create a healthy and balanced ecosystem. It is a challenging yet rewarding job.\u00a0As an engineer you will have a lot of opportunities to work with product managers, data scientists and of course engineers from other teams. You will participate the whole development cycle of a software product from product scoping, architecture design, software implementation, to productionization, and learn how to iterate a product for greater success. We own a few products that directly impact Uber's bottom line. We are a data driven team, and you will be able to see the impact of your work reflected in Uber's earning report, such as gross booking and trips. The least thing you need to worry about is scope and visibility. We have many different roles in the team, and need a broad range of skills such as machine learning, big data, optimization, and infrastructure. This is a unique opportunity to grow your career and do highly impactful fun things at the same time.\u00a0What You'll DoLead the machine learning effort in pricing and incentivesDrive open-ended projects from end to end, with exceptional execution.Thrive in ambiguous product requirements.Collaborate with Product Managers and Data Scientists closely.Make data driven decisions.Be motivated to own projects and push them forward with independence. Most importantly, have a passion to make Uber better for our riders.\u00a0\u00a0\u00a0Basic Qualifications7 Minimum Years of industry experience with a PhD in relevant fields (CS, EE, Math, Stats, Physics, etc.) or 10 Minimum Years of industry experience with a master or bachelor degree.3 Minimum Years on Machine Learning,\u00a0 Statistics, Optimization and Data Mining.Expertise in one or more object-oriented languages, including C++, Java, Python, Go or Scala.Preferred QualificationsExperience in simplifying/converting business problems into ML problems.Experience in large scale causality learning and/or deep learning.Experience developing complex software systems scaling to millions of users with production quality deployment, monitoring and reliability.Experience presenting at industry recognized ML conferences and a good publishing record.\u00a0",
+    "JobPostTime": 1625792529,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Seattle",
+            "addressRegion": "WA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

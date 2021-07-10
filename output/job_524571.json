@@ -1,0 +1,17 @@
+{
+    "JobId": "524571",
+    "JobTitle": "Senior Backend Engineer - Targeting & Segmentation",
+    "JobFullDesc": "About the Team\u00a0The Targeting & Segmentation is part of Adtech/Marketing Tech org which is responsible for around 1.6 Billion dollar marketing spend every year by Uber. The Targeting & Segmentation team builds the systems that are responsible for powering personalized experiences at Uber across all lines of business. Our core system holds data about Uber's users (1B+) from multiple sources (User app data, User identity data, etc) and powers cohorting and targeting use cases. This data also powers experimentation and personalized experience use cases across all of Uber's products. \u00a0About the Role\u00a0If you are interested in making a direct impact to the company's bottom line, join the Ad Tech Targeting & Segmentation team. Uber is on track to spend 1.6 billion dollars in marketing in 2021. The Targeting & Segmentation team at Uber builds the systems that are responsible for powering personalized experiences at Uber across all lines of business. Our core platform holds data about Uber's users (1B+) and powers cohorting and targeting use cases across all Uber apps & tools fueling growth, re-engagement and monetization in the process. Help us build the software systems that will make this happen. The team is still in its early stages, so you can drive products from inception to adoption and further iterations.\u00a0What You'll Do:Build scalable & distributed backend systems to enable Uber to target both existing and prospective users with personalized messagesBuild Auto-ML platform to enable Uber to build intelligence ML based audiences at scale and fully automatically and seamlesslyBuild a reliable & standardized data aggregation platform which Uber apps and tooling can depend on supporting cohorting & real time use cases. Help us platformise the heck out of it!Build real time systems that can handle millions of TPS in sub 10ms latencyBuild targeting platform that will help us target the right kind of potential users.This involves working with datasets that are world population scale (billions of rows) in real time.Do challenging & exciting full stack work at big data scale (Backend, Data, Frontend) for both real time and batch data.Basic QualificationsBachelor\u2019s degree in Computer Science or related technical field or equivalent practical experienceExperience coding using general purpose programming language (eg. C/C++, Java, Python, Go, C#, or Javascript)Preferred QualificationsAt least five (5) years of software engineering experience\u00a0About Uber",
+    "JobPostTime": 1625792778,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "San Francisco",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

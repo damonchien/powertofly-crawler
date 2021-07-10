@@ -1,0 +1,17 @@
+{
+    "JobId": "234665",
+    "JobTitle": "Software Engineering Manager - Program Analysis",
+    "JobFullDesc": "The Facebook Product Security team is responsible for the code level security of Facebook. We do this by finding, fixing and preventing security flaws across our codebase. The Program Analysis team is responsible for the \u201cdetection\u201d bucket of our work and does this by building systems and infrastructure that enable static code analysis. In particular, our team in MPK builds and maintains the Pyre type checker for Python and its security-focused static analysis components. These tools are tailored to detecting security issues and helping our security engineers scale. In this role, you will interact with all parts of the codebase and the company in the goal of eliminating entire categories of security flaws at their root and prevent them from happening ever again. As such, the manager of this team should have a strong software engineering background, and enjoy building systems like static analyzers and the corresponding infrastructure. They should be comfortable working across the company.Manage a team of engineers developing security solutions across Facebook products and servicesBuild the team through personal growth and recruitmentDesign and help build static and dynamic code analysis systemsDevelop a roadmap for future work, track progress against it, and evaluate the team's performanceInfluence the design and implementation of upcoming products and services with security in mindCollaboratively and inclusively set direction for the teamLead effectively through outcomes rather than tasksMINIMUM QUALIFICATIONS8+ years of work experience in software or security engineering, including 3+ years of proven hands-on technical management experience of software engineers and software engineering managersBS/MS in Computer Science or equivalent experiencePREFERRED QUALIFICATIONS8+ years of work experience in software or security engineering, including 3+ years of proven hands-on technical management experience of software engineers and software engineering managersBS/MS in Computer Science or equivalent experienceFacebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.",
+    "JobPostTime": 1625933122,
+    "CompName": "Facebook, Inc.",
+    "CompUrl": "https://powertofly.com/companies/facebook-inc",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Menlo Park",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

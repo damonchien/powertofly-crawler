@@ -1,0 +1,17 @@
+{
+    "JobId": "524311",
+    "JobTitle": "Dev Ops Engineer",
+    "JobFullDesc": " Work you'll do Deloitte is a key partner with the 2nd largest cable company in the US and is actively expanding its presence in the Technology Services division. As part of this expansion we are seeking to hire a Dev Ops Engineer.\u2022 Plan, track and report on technical projects from conception to completion using Jira or a similar tool  \u2022 Create and/or promote prototypes for new tools targeted towards accelerating delivery of Xamarin products  \u2022 Contribute to and guide a growing set of internally sourced tools through GitLab repos  Understand and implement common practices for creating and guiding development communities  Set expectations for contributions to shared source code repositories from multiple teams  \u2022 Design integrations between custom and standard tools to improve the Xamarin development pipeline at Charter  The team  CBO Systems Engineering Team  At Deloitte Consulting LLP, our Systems Engineering specialists help clients manage the complexity inherent with technology change, from requirements planning to architecture, testing to deployment, and beyond, helping to link their IT programs to organizational goals. And we offer a complete range of industry-leading services, including systems development, solution and platform integration.  Qualifications  Requirements Bachelor's degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experienceExperience with CICD using Gitlab Basic Experience of Xamarin Development  Experience with Xamarin, Appium, C#  Experience managing technical projects using Jira (or similar)  Experience in Project management and delivery  Limited immigration sponsorship may be available  Preferred skills  Experience with native Android/iOS  Experience with web development using Angular JS  Experience with UI automation using Xamarin.UITest For individuals assigned and/or hired to work in Colorado, Deloitte is required by law to include a reasonable estimate of the compensation range for this role. This compensation range is specific to the State of Colorado and takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and delivery model. We would not anticipate that the individual hired into this role would land at or near the top end of the range, but such a decision will be dependent on the facts and circumstances of each case. A reasonable estimate of the range is $74,000 to $92,000.",
+    "JobPostTime": 1625792699,
+    "CompName": "Deloitte LLP",
+    "CompUrl": "https://powertofly.com/companies/deloitte1",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressRegion": "",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

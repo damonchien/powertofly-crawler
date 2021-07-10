@@ -1,0 +1,17 @@
+{
+    "JobId": "523886",
+    "JobTitle": "Sr Engineering Manager- Marketplace Fulfillment Platform",
+    "JobFullDesc": "Uber\u2019s Marketplace Engineering team creates the technology behind our ridesharing marketplace by connecting riders with drivers at the push of a button. Our solutions expand user access, deliver reliability, and provide more transportation choices to users across our global markets.About the RoleThe Fulfillment teams develop platforms to orchestrate and manage the lifecycle of ongoing orders and user sessions with millions of active participants. Consistency at millions of transactions/sec and platformization of complex business modeling are our mission. We build, maintain and optimize the foundational services/frameworks on top of which Uber's core fulfillment flow is built.\u00a0This team is part of the Marketplace Org which is the real-time decision-making and systems behind Uber (ex: matching riders/drivers, pricing, fulfillment). We develop systems that can recover from business failures, monitor conformance, develop complex user state machine flows to unlock new product lines in the company.\u00a0In the next 1 year, fulfillment team will be innovating in the areas of development of rental product lines, re-envisioning multi modal shopping and trip flow experience that connect multiple marketplaces (e.g., order pickup food while on trip to another destination, get a ride that combines train + uber). Another focus for us is to enable third party drivers on our platform to make Uber a true platform as a service.What You'll DoLead the teams that unlock new opportunities of fulfillment and product lines for our 1P, 3P and SaaS customers.Build the framework components that can accelerate the SDLC lifecycle and management of the features long term.Provide technical leadership, influence and partner with your team to architect, design and build systems and platforms that can stand the test of scale and availability, while reducing operational overheadBasic QualificationsBachelor's degree or equivalent experience8+ years proven experience building software across the stack (ie. mobile, consumer product/enterprise products, data pipeline, and ML) in product engineering2+ years of proven experience leading multiple teams through Engineering Managers and Technical Leads.Preferred Qualifications5+ years of management building and leading a software engineering team.Experience working on storage and framework developmentDistributed systems and understanding of scaleAbility to work with internal and external stakeholders",
+    "JobPostTime": 1625792580,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "San Francisco",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

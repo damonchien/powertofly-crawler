@@ -1,0 +1,17 @@
+{
+    "JobId": "437089",
+    "JobTitle": "Applied Scientist, Audio Algorithms",
+    "JobFullDesc": "Facebook Reality Labs brings together world-class experts to develop and ship groundbreaking products at the intersection of hardware, software, and content. We have a clear mandate to ship products at scale that are seemingly impossible but define new categories that advance Facebook's mission of connecting the world. Our Audio Team is seeking to hire an Applied Scientist with experience converting research to products.Research and develop audio enhancement algorithms for communications, Always On Assistant, and music enhancement in MATLAB and PythonDefine, develop and debug real-time audio system software for forward looking products and user experiencesPrototype novel solutions to some of the most complex problems in audioPartner with research and product development teams to push the state-of-the-art on audio productsMINIMUM QUALIFICATIONSPhD in Computer Science, Electrical Engineering or equivalent experienceUnderstanding of how end-to-end audio systems work including transducers, audio ICs, acoustics, embedded DSPs, etc.5+ years of experience in R&D applied to real-time audio algorithmsExperience with a full product lifecycle from concept to deploymentProven record of high-quality patents and publications in the field of audio enhancement, voice processing and machine learning applied to audio and signal processingPREFERRED QUALIFICATIONSPhD in Computer Science, Electrical Engineering or equivalent experienceUnderstanding of how end-to-end audio systems work including transducers, audio ICs, acoustics, embedded DSPs, etc.5+ years of experience in R&D applied to real-time audio algorithmsExperience with a full product lifecycle from concept to deploymentProven record of high-quality patents and publications in the field of audio enhancement, voice processing and machine learning applied to audio and signal processingFacebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.",
+    "JobPostTime": 1625933267,
+    "CompName": "Facebook, Inc.",
+    "CompUrl": "https://powertofly.com/companies/facebook-inc",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressRegion": "",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

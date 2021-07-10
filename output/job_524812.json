@@ -1,0 +1,17 @@
+{
+    "JobId": "524812",
+    "JobTitle": "Backend Engineer II - Customer Platform",
+    "JobFullDesc": "About the TeamCustomer Platform (User Platform) provides ability to model, serve, manage ALL customer related entities: riders, drivers, partners, eaters, shippers, cars, trucks, vehicles, etc. We manage retail as well as business customers.We enable Uber's business growth and ongoing operations by providing a highly available, compliant Customer Platform. This platform serves as a canonical source of truth for ALL of Uber\u2019s customers data.We operate and manage the highest scale services at Uber (~600K QPS), while providing end to end user lifecycle management: from signups and onboarding, to core trip flow and beyond. All of this with the goal of building a 360 degree User view that can be served from a centralized platform.About the RoleThe Customer Platform team is seeking a Software Engineer with experience building high scale services and user personalization platforms, as well as experience working with big data. As a Software Engineer on the Customer Platform team, you'll be responsible for design and development of key pieces of the next-gen user platform. This platform will track the end-to-end lifecycle and journey of the user to build a unified, comprehensive 360 degree view - used for driving contextual experiences, personalization, and cross-selling of different products.What You\u2019ll DoSolve challenging distributed systems problems around scalability, reliability, low latency, active-active, high-availability with the largest-scale services at UberDevelop high quality software to build out a new user platform to do end-end User life cycle management with other capabilities like security, authorization, auditing, searching, compliance, eventing for all Uber users in a safe, reliable and controlled manner.Develop systems and software to standardize the company on one definition of a user that can have several product-facing roles: rider, driver, partner, eater, biker, business, employee.Build out a single, unified, comprehensive view of our customers called \u201cCustomer 360\u201d by tracking and analyzing their activity, enabling teams to make smart inferences about user behavior and enable wide-spread personalization and cross-selling of Uber productsCollaborate with other engineering & business teams to execute against the roadmapBasic QualificationsBachelor\u2019s degree in Computer Science or related technical field or equivalent practical experienceExperience coding using general purpose programming language (eg. C/C++, Java, Python, Go, C#, or Javascript)Preferred QualificationsAt least two (2) years of software engineering experienceAbout Uber",
+    "JobPostTime": 1625792864,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Sunnyvale",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

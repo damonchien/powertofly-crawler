@@ -1,0 +1,17 @@
+{
+    "JobId": "524052",
+    "JobTitle": "Software Engineer - Machine Learning Platform",
+    "JobFullDesc": "Uber is on the lookout for top-notch software engineers to join our Machine Learning Platform team. This role involves building and managing robust distributed systems, and solving infrastructure challenges to empower Uber\u2019s product engineering and data science teams with the latest technologies in large scale Artificial Intelligence.\u00a0The Machine Learning Platform team works on software and services that democratize and empower teams across Uber to use the technology. You will be part of a team of strong software and systems engineers executing in an exciting, dynamic environment. The Machine Learning Platform team is part of Michelangelo. For more information on the Michelangelo team as a whole, please visit our recent blog posts:\u00a0\u00a0Meet Michelangelo: Uber\u2019s Machine Learning Platform:\u00a0http://eng.uber.com/michelangelo/Productionizing Distributed XGBoost to Train Deep Tree Models with Large Data Sets at Uber:\u00a0https://eng.uber.com/productionizing-distributed-xgboost/\u00a0What You'll DoDesign and deliver software and tools as part of our state-of-the-art Machine Learning platformSystems architecture design, including management of upstream and downstream dependenciesProvide technical leadership, influence and partner with fellow engineers to architect, design and build infrastructure that can stand the test of scale and availability, while reducing operational overheadDrive efficiencies in systems and processes through automation: capacity planning, configuration management, performance tuning, monitoring and root cause analysisParticipate in periodic on-call rotations and be available for critical issuesCollaborate with platform, product and security engineering teams, and enable successful use of infrastructure and foundational servicesBasic QualificationsBS or MS in Computer Science or a related technical field, or equivalent experienceSound understanding of computer architecture and CS fundamentalsProficient in one of the following programming languages: Java, Go, PythonGood working knowledge of networking, Linux, Docker, databases, Hadoop, Hive, and/or SparkPreferred Qualifications3+ years of experience of systems software engineeringSome experience designing UI in JavaScriptGood understanding or experience with Protobuff and experience with KubernetesExperience building and managing distributed systems and high-throughput servicesSystematic problem solving approach and knowledge of algorithms, data structures and complexity analysisGrit, drive and a strong feeling of ownership coupled with collaboration and leadershipPower-user Linux knowledge and willingness to explore Linux internalsDesigning and developing backend services at scaleGood understanding of databases",
+    "JobPostTime": 1625792637,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Seattle",
+            "addressRegion": "WA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

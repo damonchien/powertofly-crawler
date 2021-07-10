@@ -1,0 +1,17 @@
+{
+    "JobId": "523605",
+    "JobTitle": "Software Engineer II",
+    "JobFullDesc": "\u00a0About the Role\u00a0\u00a0Collaborate efficiently\u00a0&\u00a0provide business value with timeline launch of critical projectsProduce consistent high quality code across all projectsIdentify and fix bugs and reliability of current systemsBring in your passionate self and positively impact the team around you\u00a0What the Candidate Will Need / Bonus Points\u00a0Basic Qualifications2+ years of experience developing and shipping code for production systems2+ years of experience in systems software engineering. Sound understanding of computer architecture and CS fundamentals.Proficient in one of the following programming languages: Java or Golang or other equivalent\u00a0Preferred QualificationsBS or MS in Computer Science or a related technical field, or equivalent experienceDetailed problem-solving approach and knowledge of algorithms, data structures, and complexity analysis.Understanding of distributed system and architecture\u00a0",
+    "JobPostTime": 1625792504,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "San Francisco",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

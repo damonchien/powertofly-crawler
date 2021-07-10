@@ -1,0 +1,17 @@
+{
+    "JobId": "523414",
+    "JobTitle": "Android Engineer, Uber Eats (Pick-up / Dine-in)",
+    "JobFullDesc": "About the RoleWhether it\u2019s a sandwich, a burrito, or groceries, the Uber Eats team builds technology to connect people with what they want, when and where they want it. Uber Eats is home to a team of mobile and backend engineers tasked with creating an app to fuel our three-sided marketplace of eaters, delivery-partners, and restaurants. From making it easier to discover your ideal meal to designing dynamic UIs, our iOS and Android engineers keep the app healthy and users with an appetite for more.\u00a0The newly formed Uber Pickup Team\u2019s mission is to provide a magical and instantly gratifying purchases in person. Pickup is the in-person layer of \u201cgetting\u201d with UberWhat You'll DoCreate an ecosystem where pickup/dine-in user experience is seamless personalized and optimized.You will work on the end-to-end experience of a pickup order which includes map view, optimized search ranking, Eater IA toggle and navigation, checkout, journey-Based Discovery, points or cashback rewards on Pickup orders.You and the team will be responsible for the mobile experience, backend, and data science and machine learning algorithms.Basic QualificationsBachelor's degree in Computer Science or related technical field or equivalent practical experienceStrong experience in either Kotlin and/or Java2+ years of professional experience building in either mobile Android platform/SDK/dev tools, or mobile consumer facing featuresExtensive knowledge in object-oriented software development, MVC architecture, multithreading, networking and memory managementPreferred QualificationsExperience working on a consumer-facing product preferredExperience shipping efficient, reliable, crash-free code that reaches millions of users.Experience or educational background in any of the following: Product Design, UI/UX, Backend/Fullstack engineering is a plus.",
+    "JobPostTime": 1625792432,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "San Francisco",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

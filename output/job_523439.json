@@ -1,0 +1,17 @@
+{
+    "JobId": "523439",
+    "JobTitle": "Risk Strategy Analyst",
+    "JobFullDesc": "Risk Data Science and Analytics teams provide insights and develop machine learning models and strategies to combat payment fraud and marketplace abuse, improve account security and integrity, and minimize credit risk for financial products.About the RoleWe're looking for a Risk Strategy Analyst to join the team to apply a data-driven approach to identify, understand, and scope emerging fraud trends (including payment fraud and marketplace risk) on the Uber platform. In this role, you'll be part of and work closely with a cross-functional team consisting of engineers, product managers, operations, data scientists, and other analysts. You will require a mix of business and technical acumen, along with cross-functional skills to connect with various internal and external partners.What You'll DoPerform analysis to understand Risk / Fraud behaviors, contribute to fraud detection features and modelsBuild and maintain fraud rules in response to evolving fraud behaviorsExtract insights from the large volumes of data and come up with new strategies to mitigate/stop fraudulent activitiesBuild a deep understanding of the Risk data, reporting, and key metricsParticipate in project definition and idea generation, work on collaborative projects with partners across the globe with a focus on the Risk/Fraud mitigationEffectively communicate and present findings to the management team to strengthen business decisionsWith guidance from manager, define and develop area of expertiseAttend regular training courses, functional business review meetings, and all-handsStay highly engaged and always hustle as Uber Risk is a very fast-paced environmentBasic QualificationsMinimum 1 year of experience in a data-focused role such as product analytics, business analytics, business operations, or data scienceAdvanced degree in Mathematics, Statistics, Computer Science, Economics or other quantitative fieldExperience with data analysis and visualization tools, such as Python, R, TableauProficient at defining, utilizing and communicating performance metricsProven track record of applying analytical/statistical methods to tackle real-world problems using big dataPreferred Qualifications3+ years of experience in a data-focused role such as product analytics, business analytics, business operations, or data scienceRisk/Fraud/Payments experience3+ years of SQL experiencePrior work with Hive, Spark, and other big data toolsExperience in experimentation, A/B testing, and statistical modeling a plusPython/RCreative problem solving, strong critical thinking, and a get things done mentalityHands-on and attentive to detailComfort with ambiguity and the ability to work in a self-guided mannerPassion for Uber!",
+    "JobPostTime": 1625792438,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Sunnyvale",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

@@ -1,0 +1,17 @@
+{
+    "JobId": "523695",
+    "JobTitle": "Program Manager, Incident Analytics",
+    "JobFullDesc": "As a Program Manager, you will help a growing team within the Privacy organization to understand and learn from Facebook Privacy Incidents as well as produce insights and learnings to Facebook Product Teams. This role will grow as the team continues to grow into its mission to manage all Privacy incidents throughout Facebook.Productionalize metrics by building data pipeline and dashboards that help the Centralized Privacy team and Facebook Products team to quantify impact and make data-driven decisionsCollaborate with Privacy Engineers, Program team and SWEs to implement and set standards for logging key attributes across the programGenerate insights across all Privacy Incident data to identify trends and pinpoint process and standards gapsExplore and analyze Privacy Incident data, develop goals and tracking metricsAssist team members to identify areas of impact to reduce incident recidivism, and to improve Privacy Review and Privacy Implementation Review outcomes, and FB Privacy StandardsBuild cross-functional relationships with product and program partners, and help foster a company culture of learning from our mistakes through data and insightsMINIMUM QUALIFICATIONS3+ years experience in quantitative role in data, reporting, and analytical problem solving2+ years experience writing complex SQL queries to drive analysis and insights1+ years experience delivering self-service analytics, insights, KPIs and metrics in reporting tools, such as Tableau, Qlik, Power BI, MicroStrategy and/or othersPREFERRED QUALIFICATIONS3+ years experience in quantitative role in data, reporting, and analytical problem solving2+ years experience writing complex SQL queries to drive analysis and insights1+ years experience delivering self-service analytics, insights, KPIs and metrics in reporting tools, such as Tableau, Qlik, Power BI, MicroStrategy and/or othersFacebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.",
+    "JobPostTime": 1625792532,
+    "CompName": "Facebook, Inc.",
+    "CompUrl": "https://powertofly.com/companies/facebook-inc",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "New York City",
+            "addressRegion": "NY",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

@@ -1,0 +1,17 @@
+{
+    "JobId": "524789",
+    "JobTitle": "Software Engineer, Machine learning platform",
+    "JobFullDesc": "\u00a0About the RoleWe are on the lookout for top-notch software engineers to join our Machine Learning Platform team (Michelangelo). You will build the extensible system foreseeing the full ML eco-system, with the mind to empower ML engineers to make impacts around all fronts for Uber businesses with confidence and ease.You will become an impactful player on a team of collaborative people with deep knowledge in various domains, such as, but not limited to, distributed systems, analytical systems, large-scale backend services, large-scale computing infra, feature stores, data vis and cloud-based AI solutions.[Meet Michelangelo: Uber\u2019s Machine Learning Platform](http://eng.uber.com/michelangelo/)What You'll DoDesign and deliver software and tools as part of our state-of-the-art Machine Learning platformSystems architecture design, including management of upstream and downstream dependenciesProvide technical leadership, influence and partner with fellow engineers to architect, design and build infrastructure that can stand the test of scale and availability, while reducing operational overheadDrive efficiencies in systems and processes through automation: capacity planning, configuration management, performance tuning, monitoring and root cause analysisParticipate in periodic on-call rotations and be available for critical issuesCollaborate with platform, product and security engineering teams, and enable successful use of infrastructure and foundational servicesBasic QualificationsBS or MS in Computer Science or a related technical field, or equivalent experienceSound understanding of computer architecture and CS fundamentalsProficient in one of the following programming languages: Java, Go, PythonGood working knowledge of networking, Linux, databases and/or Docker.Preferred Qualifications2+ years of experience of systems software engineeringSome experience designing UI in JavaScriptGood understanding or experience with Protobuf (or Thrift) and experiences with KubernetesSystematic problem-solving approach and knowledge of algorithms, data structures and complexity analysisGrit, drive and a strong feeling of ownership coupled with collaboration and leadershipDesigning and developing backend services at scaleGood understanding of databases.",
+    "JobPostTime": 1625792852,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Sunnyvale",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

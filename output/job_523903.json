@@ -1,0 +1,17 @@
+{
+    "JobId": "523903",
+    "JobTitle": "Senior Software Engineer - Frontend",
+    "JobFullDesc": "About Uber Freight\u00a0Uber Freight connects shippers with truckers, much like the way Uber connects riders and drivers. The Freight team believes that empowering truck drivers will bring more open, efficient, and increasingly safer transportation to our roads. We are a team of sharp, entrepreneurial individuals bringing technologies, algorithms and lessons from Uber\u2019s core business into the $700B U.S. Transportations & Logistics industry. Comprised of Uber veterans and newcomers, we are looking for candidates who share our enthusiasm for disrupting today\u2019s toughest challenges in transportation.\u00a0 We are a Customer Obsessed team, and care deeply about our users, continually looking for opportunities to improve their lives. \u00a0\u00a0What You\u2019ll DoAs a Front-End engineer on the Uber Freight team, you will write client-side code for web applications used across the world to improve Uber's core logistics brokerage experience. At Uber, our teams operate our business through amazing web experiences built specifically to deliver value to customers, whether on the supply or demand side of our market.\u00a0Working with backend and mobile engineers, you will create and maintain impactful tools critical to keeping Uber exciting and new, delivering value to both riders and drivers across the globe. We look for individuals who are passionate about developing impactful, high performance web applications using the latest technologies and design patterns.\u00a0Basic qualifications3+ years software developmentExpertise in Javascript, HTML, CSS, and experience with libraries like SASS, LESSKnowledge of Javascript frameworks like React, Angular, BackboneExperience with Node.js, Grunt, Gulp, or other server-side Javascript technologies and tools\u00a0Preferred QualificationsBS/MS/Phd in Computer Science or related fieldConsistent record of shipping high-quality featuresKnowledge of the principles of accessibility and ability to create products that are accessible to users with disabilities, a plus.Familiarity with principles of good user experience",
+    "JobPostTime": 1625792586,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Chicago",
+            "addressRegion": "IL",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

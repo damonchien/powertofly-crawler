@@ -1,0 +1,17 @@
+{
+    "JobId": "523962",
+    "JobTitle": "Senior Software Engineer, Backend Development",
+    "JobFullDesc": "Senior Software Engineer, Mobile Data Platform\u00a0\u00a0About The Role\u00a0Mobile data platform builds a platform to capture and surface high quality mobile events data. This data is critical for Uber in order to understand consumer behaviors and build features to better serve the customers, to derive engineering and business metrics for better understanding of our business, and to build models for greater efficiency and customer experience.\u00a0Mobile data platform team ensures that Uber has high quality, source of truth data for all lines of business. As the mobile data platform team, we define a comprehensive, systematic, and end to end data management process of mobile events. We build a platform to collect, transfer, process and route mobile data to different downstream , which make them consumable by our customers: engineers, data scientists, PMs, EMs, and operations.\u00a0\u00a0What You'll Do\u2022 Makes it easy to define and produce the mobile data\u2022 Enables data management and data discovery at your fingertips\u2022 Ensures high quality of data through testing/validation, review, and production monitoring\u2022 Ensures critical mobile data are transferred to the backend reliably with low latency\u2022 Ensures the mobile data are properly owned, produced, consumed\u00a0Basic Qualifications\u2022 Bachelor's degree in Computer Science or related technical field or equivalent practical experience\u2022 Experience coding using general purpose programming language (eg. Java, C/C++, Go, C#, or Javascript)\u00a0Preferred Qualifications\u2022 At least five (5) years of software engineering experience\u2022 Experience with micro services, Kafka, Cassandra preferred",
+    "JobPostTime": 1625792604,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Sunnyvale",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

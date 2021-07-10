@@ -1,0 +1,71 @@
+{
+    "JobId": "522952",
+    "JobTitle": "Technical Services Engineer",
+    "JobFullDesc": "\nThe database market is massive (the IDC estimates it to be $119B+ by 2025!) and MongoDB is at the head of its disruption. The MongoDB community is transforming industries and empowering developers to build amazing apps that people use every day. We are the leading modern data platform and the first database provider to IPO in over 20 years. Join our team and be at the forefront of innovation and creativity.\nMongoDB Technical Services Engineers use their exceptional problem solving and customer service skills, along with their deep technical experience, to advise customers and to solve their complex MongoDB problems. Technical Service Engineers are experts in the entire MongoDB ecosystem - database server, drivers, cloud and infrastructure. This also includes services such as Atlas (database as a service), or Cloud Manager (which helps customers with automation, backup and monitoring of their MongoDB systems). Our engineers combine their MongoDB expertise with passion, initiative, teamwork and a great sense of humor to help our customers to be successful with MongoDB.\nCool things you\u2019ll do\nYou'll be working alongside our largest customers, solving their complex challenges - resolving questions on architecture, performance, recovery, security, and everything in between. You'll be an expert resource on best practices in running MongoDB at scale, whatever that scale may be. You'll be an advocate for customers' needs - interfacing with our product management and development teams on their behalf. And you'll contribute to internal projects, including software development of support tools for performance, benchmarking, and diagnostics.\nWhat you need\nWe consider all candidates with an eye for those who are self taught, insatiably curious, and multi-faceted.\nThe ideal candidates should have strong technical experience in one (or more) of the following areas\n\nSystems administration\nDistributed systems\nNetwork administration\nDatabase architecture and administration\nApplication architecture\nData architecture and design, or\nPerformance tuning and benchmarking.\nExtra bonus points if you experience in one or more of: Java, Python, Ruby, C, C++, C#, Javascript, node.js, Go, PHP, or Perl.\n\nIf you have an operations background, we prefer experience administering large-scale production environments, including hardware, operating systems (e.g. Linux, Windows), networks (including firewalls and load balancers), as well as cloud-based resources (e.g. AWS, Azure, Google Cloud Platform).\nIt\u2019s crucial for every candidate that they can check off all of these boxes\n\nExcellent communication skills, both written and verbal\nGenuine desire to help people\nUncontrollable urge to investigate and solve problems, with advanced diagnostic and troubleshooting skills\nAbility to think on your feet, remain calm under pressure, and solve problems in real-time\nDesire and ability to rapidly learn a wide variety of new technical skills\nStrong teamwork: willingness and ability to get help from team members when required, and the good judgment to know when to seek help\n\nTo drive the personal growth and business impact of our employees, we\u2019re committed to developing a supportive and enriching culture for everyone. From employee affinity groups, to fertility assistance and a generous parental leave policy, we value our employees\u2019 wellbeing and want to support them along every step of their professional and personal journeys. Learn more about what it\u2019s like to work at MongoDB, and help us make an impact on the world!\nMongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.\nMongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.\n",
+    "JobPostTime": 1625760066,
+    "CompName": "MongoDB",
+    "CompUrl": "https://powertofly.com/companies/mongodb",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressRegion": "",
+            "addressCountry": "US"
+        },
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Washington",
+            "addressRegion": "DC",
+            "addressCountry": "US"
+        },
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Raleigh",
+            "addressRegion": "NC",
+            "addressCountry": "US"
+        },
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Philadelphia",
+            "addressRegion": "PA",
+            "addressCountry": "US"
+        },
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "New York City",
+            "addressRegion": "NY",
+            "addressCountry": "US"
+        },
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Indianapolis",
+            "addressRegion": "IN",
+            "addressCountry": "US"
+        },
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Columbus",
+            "addressRegion": "OH",
+            "addressCountry": "US"
+        },
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Charlotte",
+            "addressRegion": "NC",
+            "addressCountry": "US"
+        },
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Boston",
+            "addressRegion": "MA",
+            "addressCountry": "US"
+        },
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Atlanta",
+            "addressRegion": "GA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

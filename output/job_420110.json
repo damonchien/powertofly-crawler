@@ -1,0 +1,17 @@
+{
+    "JobId": "420110",
+    "JobTitle": "Senior Analyst, Video Analytics",
+    "JobFullDesc": "Video Analytics is seeking a Senior Analyst to support Cond\u00e9 Nast Entertainment (CNE), an award-winning next generation studio and distribution network with entertainment content across film, television, premium digital video, social, virtual reality and OTT channels. CNE develops, produces and distributes video content across 17 brands, including Bon App\u00e9tit, Glamour, GQ, Vanity Fair, Vogue and Wired.\n\nIn this role, you will be responsible for the data foundation on which CNE and Cond\u00e9 Nast as a whole rely to understand video performance. That includes ownership of CNE\u2019s single-source-of-truth reporting on video performance data, but also maintenance of key video metadata that helps stakeholders group that data in ways that are critical to analysis, insights, strategy, and decision-making. In addition to the hard skills that you will need to bring to bear, you will also need to demonstrate a number of important soft skills: collegiality, reliability, attention to detail, and most importantly a passion for data and how it enables the business to succeed.\n\nResponsibilities\n\n\nOwn reporting: gather and collate data across more than a dozen brands, platforms, and markets\nPerform analysis: use basic stats to benchmark video performance across segments and time periods; develop back-of-the-envelope analysis techniques for sometimes imperfect data\nMaintain metadata: identify and resolve gaps and discrepancies; help implement more robust tagging processes for video assets\nManage partner data: work with video distribution stakeholders to onboard new data sources; resolve mapping errors; track availability of metrics across partners\nOther duties as assigned: monitor tests; support dashboards; build decks; etc.\n\nRequirements\n\n\nAt least 2 years of work experience as a researcher and/or analyst (Media & Entertainment experience preferred)\nHigh proficiency in spreadsheets (Excel, Google Sheets), especially in how to automate data wrangling and analysis\nAt least some proficiency in SQL preferred\nStrong analytical and data interpretation skills\nReliability, with an eye for detail and an obsession with accuracy\nSelf-driven and growth-oriented mindset\n\n",
+    "JobPostTime": 1625772033,
+    "CompName": "Conde Nast",
+    "CompUrl": "https://powertofly.com/companies/conde-nast",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "New York City",
+            "addressRegion": "NY",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": "self driven, Sql, ms office"
+}

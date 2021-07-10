@@ -1,0 +1,17 @@
+{
+    "JobId": "523984",
+    "JobTitle": "Senior Software Engineer (Machine Learning) - Freight",
+    "JobFullDesc": "About Uber Freight\u00a0Uber Freight connects shippers with truckers, much like the way Uber connects riders and drivers. The Freight team believes that empowering truck drivers will bring more open, efficient, and increasingly safer transportation to our roads. We are a team of sharp, entrepreneurial individuals bringing technologies, algorithms and lessons from Uber's core business into the $700B U.S. Transportations\u00a0&\u00a0Logistics industry. Comprised of Uber veterans and newcomers, we are looking for candidates who share our enthusiasm for disrupting today's toughest challenges in transportation. We are a Customer Obsessed team, and care deeply about our users, continually looking for opportunities to improve their lives.\u00a0About the teams\u00a0Freight Engineering is tasked with creating the algorithms, systems, applications that power our independent drivers, sales and operations teams, and shippers that need to transport freight across the country. For these different user segments, we create business portals, mobile applications, integrations with third-party systems, and self-learning models that adjust to market conditions in real-time. Most of our work is distributed via the Web and through mobile app stores, interfacing with Uber cores services and running on Uber's compute platform.\u00a0Marketplace Dynamics\u00a0The Marketplace Dynamics team is responsible for building products, algorithms and services that drive pricing efficiencies within our network. The Marketplace Dynamics group works at the intersection of data science\u00a0&\u00a0engineering, and develops the decision-making systems to create a healthy central exchange. Alongside our Shipper and Carrier teams, this group optimizes the pricing, matching, and recommendation capabilities across our applications.\u00a0Basic Qualificaitons5+ years of hands on software engineering experience with thoughtfulness of scale, latency and distributed domain-based architecturesExperience with one or more of the programming languages (Go, C++, Java, Python, etc) and relational and/or object data stores (MySQL, Cassandra, Redis, etc)Experience with distributed storage and database systems, including SQL or NoSQL, MySQL, Cassandra, Hive, Presto or SparkPreferred QualificationsMS/PhD in Computer Science, or related fieldsExperience using machine learning libraries or platforms, including Tensorflow/Pytorch, Caffe, Theanos, Scikit-Learn,or Spark MLLibExperience developing complex software systems scaling to millions of users with production quality deployment, monitoring and reliabilityExperience in stream processing: Storm, Spark, Flink etc.",
+    "JobPostTime": 1625792616,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Chicago",
+            "addressRegion": "IL",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

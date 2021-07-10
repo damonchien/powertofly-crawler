@@ -1,0 +1,17 @@
+{
+    "JobId": "457997",
+    "JobTitle": "Senior Software Developer",
+    "JobFullDesc": "We are seeking a Senior Software Engineer as the technical lead of a product team.\n\nJob Responsibilities\n\n\nWork with the Product, team to execute the roadmap and translate requirements into actionable software engineering tasks.\nDiscuss technical solutions with the development team, communicate goals and facilitate execution.\nManage tech debt and growing codebase so we continuously improve quality and performance.\nLead functional design reviews and provide feedback to the development team.\nCoordinate with QA team members and work together to achieve automated testing in support of continuous delivery capabilities.\nManage creation of deployment scripts and instructions to enable technical operations to smoothly deploy solutions across environments.\nPerform code reviews and provides feedback to developers.\nHelp team unblocks on any impediments.\nParticipate in coding and contribute to the codebase.\nSupport the Product organization in product demos and pitches.\nInvestigate production issues and coordinate with the QA and support teams to deliver any patches required.\nMaintain a high-performance team. Encourage a highly innovative culture.\nHave results-driven personality, high enthusiasm, energy, and confidence.\n\nDesired Skills & Experience\n\n\nProgressive technology experience\nExperience in ad tech a strong plus\nExperience with Agile methodologies highly desirable\nExcellent organizational skills\nExcellent architecture skills and strong technical writing skills\nMust have a working knowledge of a wide range of technologies, including:\n\t\nSoftware development methodologies\nRelational database technologies\nWeb development methodologies\nStrong knowledge of Java, Spring, Hibernate\nStrong system knowledge of Linux environments\nScripting skills (Bash, Perl, PHP, Python etc.)\n\nKnowledge in Amazon\u2019s AWS ecosystem desirable\nExcellent communication and collaboration skills\n",
+    "JobPostTime": 1625772969,
+    "CompName": "Kinesso Ltd.",
+    "CompUrl": "https://powertofly.com/companies/kinesso-ltd",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "New York City",
+            "addressRegion": "NY",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

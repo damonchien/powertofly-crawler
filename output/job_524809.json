@@ -1,0 +1,17 @@
+{
+    "JobId": "524809",
+    "JobTitle": "Sr Software Engineer - Data Lake Storage",
+    "JobFullDesc": "About the Role\u00a0\u00a0You will build libraries and distributed services to support Uber\u2019s analytical data infrastructure. You will be responsible for designing and implementing critical components of the Apache Hudi storage format, a file format for optimal real-time storage of analytical data with the support of update/deletes developed and open-sourced from the ground up from our team at Uber. You will also contribute to a table management platform that acts as a control plane for managing different activities on tables on the data lake and warehouse. Regardless of whether you are a core data infrastructure developer or a platform developer, you\u2019ll find a challenging project within the Data Lake Storage team to continue your career. Come help us scale our Big Data and fundamentally influence the quality of data used to make key business decisions at Uber.\u00a0What the Candidate Will Do ----Design and implement libraries and distributed services to support Uber\u2019s analytical data infrastructureWork on cutting edge technologies to help build the storage abstraction for Uber\u2019s large transactional data lakeContribute to open source technologies such as Apache Hudi, ParquetUnderstand software components from multiple partner teams, lead the integration of those components and drive their continued developmentMentor and support your fellow teammates and help review the team's technical design, code and documentationDrive ongoing efficiency and reliability improvements through design and automation: performance, scaling, observability, and monitoring.Basic Qualifications ----Bachelor's degree in Computer Science \u00a0Expertise in one of the languages such as Java/C++/Python4+ years of experience working in large-scale distributed systemsExperience with developing, debugging, and shipping software products on large code bases that span platforms and tools.Preferred Qualifications ----\u00a0Masters or Ph.D. in Computer Science or related disciplineSound knowledge about database concepts such as transactions, indexing, concurrencyDeep understanding of file systems, memory managementStrong problem solving and coding skillsExperience with Software Development processes such as design, planning, implementation, maintenance & documentationDemonstrated experience working collaboratively in cross-functional teamsPassion for learning new technologies, domains, and challenging the status quoExperience with Software Development processes such as design, planning, implementation, maintenance & documentationDemonstrated experience working collaboratively in cross-functional teamsPassion for learning new technologies, domains, and challenging the status quo",
+    "JobPostTime": 1625792862,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Sunnyvale",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

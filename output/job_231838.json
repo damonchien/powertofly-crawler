@@ -1,0 +1,17 @@
+{
+    "JobId": "231838",
+    "JobTitle": "Senior Mobile Engineer (f/m/d/x) ",
+    "JobFullDesc": "What's next in music happens on SoundCloud first. As the world\u2019s largest open audio platform, SoundCloud is powered by a connected community of creators, listeners and curators who share, discover and influence what's new, now and next in music and audio. We reach hundreds of millions of listeners globally every month, many of whom listen on mobile. We are now looking for a Mobile engineer to join our engineering team in Berlin.\nIf you are passionate about mobile platforms, loving to translate code into user-friendly apps and want to become a cross platform mobile developer, we would like to meet you.\u00a0\nAs an Engineer you know how to create clean code, review, test, debug and document it. You also have a very good understanding of Object Oriented Design Patterns.\u00a0\u00a0\nAs a Mobile Engineer,\u00a0\n\nYou have extensive knowledge about mobile app development, from the first line of code to publishing in the store(s).\u00a0\nSolid experience of at least one mobile platform (Google\u2019s Android or Apple\u2019s iOS) and some knowledge about the other one. Proficiency therefore, in at least one programming language out of Kotlin, Android Java, Swift and/or Objective-C\nProficiency with writing automated tests (.eg. JUnit, Espresso, Mocha, Jest, Enzyme, XCTest, etc.)\nIn-depth knowledge in building adaptive UIs for phones and tablets\nExperience with third-party libraries and APIs\nKnowledge of cross-platform development options, such as Web views, React Native, Kotlin Native etc would be benefitial.\n\nWe're currently hiring for multiple teams with different missions, technologies and challenges; and we will discuss potential teams with you to figure out the best fit together.\n\u00a0About Us:\n\n\nWe\u2019re international! We operate in the US, Berlin and London and all of our communication is in English.\u00a0\n\n\nWe have a flexible, friendly and inclusive office environment in Mitte\u00a0\n\n\nOur environment is a learning one, with specific focus on development, including a professional development allowance and a possibility to use 20% of your time for a personal project.\n\n\nYou can contribute to our Engineering Blog post.\u00a0\n\n\nNot located in Berlin? No worries, we offer extensive relocation support including allowances, one way flights, temporary accommodation and, by partnering with Expath, on the ground support on arrival.\n\n\nInterested in a gym membership, photography course or book? We have a Creativity and wellness benefit!\n\n\nWe offer free German courses at beginning, intermediate and advanced.\u00a0\n\n\nDiversity at SoundCloud:\nSoundCloud is for everyone. Diversity and open expression are fundamental to our organization; they help us build a social platform and global community where anyone can create, discover and share sounds. We acknowledge the challenges in our industry, and strive to develop an inclusive culture where everyone can contribute.",
+    "JobPostTime": 1625846400,
+    "CompName": "SoundCloud Inc.",
+    "CompUrl": "https://powertofly.com/companies/soundcloud-inc",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Berlin",
+            "addressRegion": "",
+            "addressCountry": "DE"
+        }
+    ],
+    "Skills": []
+}

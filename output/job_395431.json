@@ -1,0 +1,17 @@
+{
+    "JobId": "395431",
+    "JobTitle": "Mobile Solutions Architect",
+    "JobFullDesc": "Amazon Advertising creates powerful, customer-focused search and advertising solutions and technologies. Our Ad Tech team builds the technology infrastructure and ad serving systems to manage billions of advertising queries every day. The result is better quality advertising for publishers and more relevant ads for customers. Our infrastructure supports millions of Internet users and handles billions of queries per day, all delivered in milliseconds. Our data platform processes massive data sets to develop business intelligence and analytics that are critical for the efficiency and profitability of our advertising business.\n\nAmazon Publisher Services (APS) helps publishers of all sizes increase monetization and yield. APS provides exclusive access to Amazon marketing spend and extends our cloud-based platform technology to enable publishers to maximize revenue opportunity across devices and media channels while improving user experience. The end result is an Amazon product that lets publishers focus on what they do best: publishing.We\u2019re looking for a Mobile Solutions Architect who can consult with new and existing publishers and app developers to improve their programmatic infrastructure.In this role, you will:\u00b7 Be a key technical liaison for Amazon Publisher Services\u2019 mobile app developers\u00b7 Partner closely with business and account teams as a technical consultant for custom integrations and solutions\u00b7 Troubleshoot and resolve technical challenges for our customers\u00b7 Champion new product requirements and features for development\u00b7 Identify short and long-term product opportunities and provide actionable recommendations to customersIn this organization you\u2019ll experience the benefits of working in a dynamic, entrepreneurial environment, while leveraging the resources of Amazon.com (AMZN), one of the world's leading companies. We provide a highly customer-centric, team-oriented environment in our offices located in London.\nBASIC QUALIFICATIONS\n\u00b7 2+ years of experience working directly with customers and/or external partners\u00b7 2+ years of experience communicating technical concepts to business and technical audiences\u00b7 2+ years of experience using Android or iOS SDKs\u00b7 2+ years of experience working with mobile debugging tools\u00b7 2+ years of experience with ad tech and related technologies such as DoubleClick DFP, FreeWheel, AdMob or Mopub, etc\u00b7 Bachelor\u2019s Degree in Computer Science or equivalent related experience\nPREFERRED QUALIFICATIONS\n\u00b7 Strong written and verbal communication skills\u00b7 Knowledge of CS fundamentals including data structures, algorithms, and networking\u00b7 Development experience with Javascript, Java, Objective-C or any commonly used programming languages\u00b7 An interest in the business behind the products we develop\n",
+    "JobPostTime": 1625774236,
+    "CompName": "Amazon.com, Inc.",
+    "CompUrl": "https://powertofly.com/companies/amazon",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "London",
+            "addressRegion": "",
+            "addressCountry": "GB"
+        }
+    ],
+    "Skills": "computer science, Mobile debugging, android sdk"
+}

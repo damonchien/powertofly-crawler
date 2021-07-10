@@ -1,0 +1,23 @@
+{
+    "JobId": "525049",
+    "JobTitle": "Software Engineer",
+    "JobFullDesc": "The database market is massive (the IDC estimates it to be $119B+ by 2025!) and MongoDB is at the head of its disruption. The MongoDB community is transforming industries and empowering developers to build amazing apps that people use every day. We are the leading modern data platform and the first database provider to IPO in over 20 years. Join our team and be at the forefront of innovation and creativity.\nMongoDB seeks a full-stack software engineer to help level-up the Engineering Corps and grow its sales tools offerings by orders of magnitude. Central to MongoDB\u2019s ability to provide the myriad of technical resources utilized daily by all company employees, the Engineering Corps\u2019 responsibility is to realize and develop internal technical solutions to problems facing individual employees, teams, departments, and the company as a whole. The team consists of software generalists with a large breadth of expertise and experience. They are full-stack engineers in practice, database and sys admins when necessary, and experienced service providers with a track record of timely delivery and delighted customers.\nOur ideal candidate\n\nHas 1+ years of experience developing APIs (Python is highly preferred, but not required)\nHas experience with React or Angular\nIs familiar with source-control systems, preferably Git\nIs comfortable developing in a Linux environment and familiar with Docker & CI/CD\nHas excellent communication skills and a desire to experiment\nIs collaborative, detail-oriented, and passionate about developing usable software\n\nBonus Round\n\nFamiliarity with Salesforce API Development\n\nPosition Expectations\n\nDevelop features and write tests for a suite of internal tools and services\nContribute to functional specifications and design\nRegularly review application code\nWork with the Sales Team and Sales Operations to understand how they do business and develop technical solutions to help them do so more efficiently and effectively\nHave lots of fun doing all of the above things\n\nSuccess Measures\n\nIn three months you will have made several small contributions to our codebase and documentation\nIn six months you will be a resident expert with one of our applications and make regular contributions\nIn one year you will be well on your way towards developing a major feature (or two!)\n\nTo drive the personal growth and business impact of our employees, we\u2019re committed to developing a supportive and enriching culture for everyone. From employee affinity groups, to fertility assistance and a generous parental leave policy, we value our employees\u2019 wellbeing and want to support them along every step of their professional and personal journeys. Learn more about what it\u2019s like to work at MongoDB, and help us make an impact on the world!\nMongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.\nMongoDB is an equal opportunities employer.",
+    "JobPostTime": 1625828514,
+    "CompName": "MongoDB",
+    "CompUrl": "https://powertofly.com/companies/mongodb",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Dublin",
+            "addressRegion": "",
+            "addressCountry": "IE"
+        },
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Madrid",
+            "addressRegion": "",
+            "addressCountry": "ES"
+        }
+    ],
+    "Skills": []
+}

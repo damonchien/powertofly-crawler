@@ -1,0 +1,17 @@
+{
+    "JobId": "475934",
+    "JobTitle": "Front End Engineer",
+    "JobFullDesc": "Are you interested in building products used by more than a billion people? Do you like shipping code at a rapid pace? Facebook is seeking an experienced Front End Engineer that is passionate about building mobile and desktop web applications. This position is full-time.Implement the features and user interfaces of Facebook products like News FeedArchitect efficient and reusable front-end systems that drive complex web applicationsComplete medium to large features (each with many tasks) independently without guidanceIdentify and drive changes as needed for assigned codebase, product area and/or systemsCollaborate with Product Designers, Product Managers, and Software Engineers to deliver compelling user-facing productsIdentify and resolve performance and scalability issuesMINIMUM QUALIFICATIONS2+ years of JavaScript experience, including concepts like asynchronous programming, closures, types, and ES62+ years of HTML/CSS experience, including concepts like layout, specificity, cross browser compatibility, and accessibility2+ years experience with browser APIs and optimizing front end performancePREFERRED QUALIFICATIONS2+ years of JavaScript experience, including concepts like asynchronous programming, closures, types, and ES62+ years of HTML/CSS experience, including concepts like layout, specificity, cross browser compatibility, and accessibility2+ years experience with browser APIs and optimizing front end performanceFacebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.",
+    "JobPostTime": 1625933144,
+    "CompName": "Facebook, Inc.",
+    "CompUrl": "https://powertofly.com/companies/facebook-inc",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "San Francisco",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

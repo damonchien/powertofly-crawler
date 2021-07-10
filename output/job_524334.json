@@ -1,0 +1,17 @@
+{
+    "JobId": "524334",
+    "JobTitle": "Software Engineer, CI/CD",
+    "JobFullDesc": "Under the hood of the Uber platform is a large-scale, microservice-based architecture that facilitates the reliability and scalability of our products. Our Core Infrastructure team leads our site reliability, observability, computing, networking, and hardware operations from sites worldwide.About the RoleAs an engineer on the CI/CD team, you will build first-class tooling and infrastructure to support 3,000+ engineers at Uber and handle tens of thousands of commits per day. This team focuses on designing, developing and scaling a robust platform to solve Uber\u2019s unique build tooling challenges, create infrastructure to support our wide array of services, and extend CI/CD systems to provide safe, high-quality rollouts for our code.\u00a0What You'll DoDesign and build advanced automated build, test and release infrastructureShip services and tools that greatly increase developer productivity and application qualityDrive adoption of best practices in code health, testing, and maintainabilityContinue to refine and define our tech stack, utilizing open source tools, generalizing product-specific code and/or building novel solutions to needs we encounterContribute features and fixes back to open source software, or create and promote our own open source toolsCommunicate and collaborate within and across teams to drive company-wide, large-scale projectsBasic QualificationsAt least 1 year of backend software engineering experienceBachelor's degree in Computer Science or related technical field or equivalent practical experienceSolid understanding of Java, Go or other languages for backend / systems software developmentPreferred QualificationsYou consider yourself fullstack and have knowledge in both backend languages, like Java/Go, as well as Javascript and modern frameworks (e.g. React)You are knowledgeable and have experience with Cassandra and KafkaYou are knowledgeable in building distributed systemsYou have worked with Buck, Bazel, Docker, or other large-scale build tools within a monorepo contextYou have utilized and configured systems like Jenkins, Buildkite, Spinnaker, or other CI/CD toolsYou have experience with containerized CI/CD pipelines, and creating reproducible builds from development to productionYou have experience creating automation in continuous integration and deliveryYou are adept at communicating and collaborating effectively with others, promoting your ideas as well as being humble when you may be wrongYou are excited to learn from and teach others and are passionate about creating tools, products and providing support for your fellow engineers",
+    "JobPostTime": 1625792706,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Sunnyvale",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

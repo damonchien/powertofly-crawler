@@ -1,0 +1,17 @@
+{
+    "JobId": "524669",
+    "JobTitle": "Backend Engineer 2 - Marketplace Investments",
+    "JobFullDesc": "Uber\u2019s Marketplace Engineering team creates the technology behind our ridesharing marketplace by connecting riders with drivers at the push of a button. Our solutions expand user access, deliver reliability, and provide more transportation choices to users across our global markets.About the RoleMarketplace Investments team builds the platform for planning and optimizing incentive budgets at Uber. Our platform also automates Driver offer generation algorithms. We seek to be at the center of marketplace spend, and your work will have a large impact at Uber. The combination of technical challenges and cross functional work will allow you to grow as a software engineer in any dimension.What You'll DoPartner with Machine Learning Engineers, Data Scientists and use Machine Learning to improve predictive models to make better budget allocation decisions.Work with engineers on Driver Incentives and help onboard new offer generation levers on our platform.You will collaborate closely with Product Managers, Prod Ops, Central Operations teams and have an opportunity to craft the future of incentive budgeting at Uber.Basic QualificationsStrong coding/debugging abilities with at least one coding language. We work with Golang, Java, Python, MySQL & NoSQLKnowledge of data structures and an eye for architecture. Ability to discuss the tradeoffs between architectural choices, both on a theoretical level and on an applied level.Ability to craft database schemas in an extensible way.Preferred QualificationsExperience with Big Data technologies like SparkExperience with Machine LearningProven experience building large scale distributed systemsExperience implementing sophisticated projects with multiple dependenciesCuriosity to understand how Rides business works!",
+    "JobPostTime": 1625792811,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "San Francisco",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

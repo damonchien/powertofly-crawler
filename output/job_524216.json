@@ -1,0 +1,17 @@
+{
+    "JobId": "524216",
+    "JobTitle": "Senior Software Engineer - Data Infra",
+    "JobFullDesc": "About the Role\u00a0\u00a0The Data Sharing Platform team aims to build the next generation of intelligent data services that will have a profound impact on how we march towards the vision of Uber\u2019s data-driven real-time marketplace.\u00a0Our teams build platforms that enable data movement within Uber across various sources and sinks, allow data sharing outside of Uber with various city partners and regulators along with ingesting data from various external sources to support business analytical needs. We have open sourced one of these platforms - Marmaray.\u00a0What the Candidate Will Do:\u00a0As part of the team, you\u2019ll see the tangible impact of the work you deliver, you\u2019ll get the opportunity to work with high performing colleagues, you\u2019ll contribute to the team\u2019s vision and its implementation.\u00a0\u00a0You will have a chance to:\u00a0\u00a0Drive efficiency and reliability improvements through design and automation: performance, scaling, observability, and monitoringWork with multiple partner teams within and outside of Uber and build cross-functional solutions in a collaborative work environmentMentor and support your fellow teammates, review the team's technical design, code, and documentationBasic Qualifications:Bachelor's degree in Computer Engineering or similar field with 4+ years of experience.Experience with developing, debugging, and shipping software products on large code bases that span platforms and tools.Strong problem solving and coding skills in at least one of the following languages. Java/Go/C++/PythonPreferred Qualifications:Masters in Computer Science or related field3+ years of experience in building large-scale platforms and distributed systemsExperience identifying and solving major architectural problems. Extend, improve, or, when needed, build solutions to address architectural gaps or technical debtHands-on experience building Spark applications or similar Big Data pipelines/frameworks/services (e.g. Hadoop, Hive, Kafka, Presto, Parquet, Avro etc.)Experience creating frameworks and abstractions that are reliable and reusableUnderstanding of REST API services and applicationsDemonstrated experience working collaboratively in cross-functional teams\u00a0",
+    "JobPostTime": 1625792675,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Sunnyvale",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

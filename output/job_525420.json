@@ -1,0 +1,17 @@
+{
+    "JobId": "525420",
+    "JobTitle": "Sr. AWS Infrastructure Specialist",
+    "JobFullDesc": "Are you an experienced, passionate pioneer in technology? A roll-up-your-sleeves AWS Infrastructure Specialist who wants be part of a collaborative environment? A leader who can incorporate new ideas in a think-tank and share new ideas with your colleagues? If so, consider an opportunity with our US Delivery Center - we are breaking the mold of a typical Delivery Center. Our US Delivery Centers have been growing since 2014 with significant, continued growth on the horizon. Interested? Read more about our opportunity below...  Work you'll do/Responsibilities:  Consult with clients on the system design of AWS environments  Manage cloud implementations, upgrades, migrations, and change requests on client cloud environments  Create, implement, and assist in the development of scripts to automate everyday operations  Monitor and maintain multiple (Infrastructure) environments based on client requirements  Responsible for the configuration and setup of backups as well as setup automated AWS patching for Windows and Linux platforms  Lead program optimization to work within constructs of an AWS infrastructure environments  The Team  Deloitte's Government & Public Services practice-our people, ideas, technology and outcomes-is designed for impact. Our team of over 15,000+ professionals bring fresh perspective to help you anticipate disruption, reimagine the possible, and fulfill your mission promise.  The US Cloud Engineering Offering focuses on enabling our client's end-to-end journey from On-Premise to Cloud, with opportunities in the areas of Cloud Strategy and Op Model Transformation, Cloud Development & Integration, Cloud Migration, and Cloud Infrastructure & Managed Services. Cloud Engineering supports our clients as they improve agility, resilience and identifies opportunities to reduce IT operations spend through automation by enabling Cloud. We accelerate our clients toward a technology-driven future, leveraging vendor solutions, Deloitte-developed  Qualifications Required  Bachelors of Science in IT related field or equivalent work experience  Demonstrated experience in Windows Active Directory design and implementation across AWS cloud environments  Strong Experience with designing and deploying AWS Services like Elastic Compute (EC2), Storages (S3, EBS, EFS, Glacier and AWS Storage Gateway) and RDS  Demonstrated experience in AWS storage encryption, data at rest, and data in transit  Automation scripting experience with GitHub, Jenkins or scripting languages including (Ansible, Shell, Bash, Perl)  AWS Management Services experience (CloudWatch, ELB, EC2 autoscaling, CloudTrail and AWS Config), AWS workspaces, and AWS directory Services  Legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future  Must be able to relocate or live in the Lake Mary, FL area  Must be able to travel up to 20% (while 20% of travel is a requirement of the role, due to COVID-19, non-essential travel has been suspended until further notice  Preferred \u2022 Experience with Cloud migrations and production support",
+    "JobPostTime": 1625828627,
+    "CompName": "Deloitte LLP",
+    "CompUrl": "https://powertofly.com/companies/deloitte1",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressRegion": "",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

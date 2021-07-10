@@ -1,0 +1,17 @@
+{
+    "JobId": "523599",
+    "JobTitle": "Staff Software Engineer- Rider Personalization",
+    "JobFullDesc": "On the Rides Engineering team, we write code that ignites opportunities for millions of people every day. We\u2019re focused on making Uber\u2019s core ridesharing products faster, safer, and more reliable by building scalable software solutions for riders and drivers on our platform.About the RoleThe role is within the Rider Relevance & Personalization team at Uber. The team is focused on building relevance and personalization tech across all Rider products at Uber. The person who takes this role will be able to define the architecture and technology roadmap for one of Uber\u2019s most critical growth areas, impact the Uber mobility business directly.What You'll DoWork with product, data science, and eng leadership to shape the technical roadmap and problem formulations for the team.Leverage algorithmic knowledge in machine learning/optimization/statistics to design robust approaches engineering solutions to positively impact Uber's business.Work with the team to productionize the solutions at scale.Basic QualificationsBS/BE degree in Computer Science and related field7+ years of experience designing and implementing large scale distributed systemsPreferred QualificationsMaster\u2019s in a relevant field (computer science, engineering, statistics, ML) or PhDExperience in leveraging machine learning/statistics/optimization to build models in productionSome experience in leading teams either as a tech lead or a managerExperience building algorithms with large scale dataTrack record of building large-scale, highly-available systems for both batch and streamingDeep domain expertise and are one of the recognized specialists in one or multiple areas like reinforcement learning, personalization, or deep learning.",
+    "JobPostTime": 1625792502,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "San Francisco",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

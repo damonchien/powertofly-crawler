@@ -1,0 +1,17 @@
+{
+    "JobId": "241468",
+    "JobTitle": "RF Engineer",
+    "JobFullDesc": "As an RF Systems Engineer at Facebook Reality Labs, you will develop new wireless systems for Augmented Reality (AR). You will work closely with product design, electrical and firmware engineers on advancing the state of AR through research and development, prototyping, and implementation in shipping products. You will own RF system design from initial definition through production. You should have deep experience in consumer electronics (CE) development and wireless technology along with a passion for exploration and experimentation.Responsible for RF system implementation throughout a product design cycle.Responsible for part selection, prototyping, factory bring up and lab bench debug and root cause.Work with internal cross-functional team and external JDM/CM to successfully bring wireless product to market.Perform multi-radio coexistence mitigation (including RF link budget planning and issue debugging).Optimize RF conducted and OTA performance by simulation and lab validation.Characterize and debug desense issues to meet requirements.Work with antenna and test engineers to ensure the quality of the overall system.Support EMI/EMC trouble shooting and validation.Domestic/international travel to achieve program milestones.MINIMUM QUALIFICATIONSBS in Electrical engineering or related field.5+ years\u2019 experience in RF design for consumer electronics.Experience with WiFi, BT, GPS and Cellular RF implementation.Experience with RF front-end and SoC Schematic, Layout Capture and Board Bring Up.Work experience with RF lab equipment for device characterization and component/system performance validation.Experience with RF circuit and EM simulation software.Knowledge of RF/wireless system architecture and WiFi/BT/Cellular protocol.PREFERRED QUALIFICATIONSBS in Electrical engineering or related field.5+ years\u2019 experience in RF design for consumer electronics.Experience with WiFi, BT, GPS and Cellular RF implementation.Experience with RF front-end and SoC Schematic, Layout Capture and Board Bring Up.Work experience with RF lab equipment for device characterization and component/system performance validation.Experience with RF circuit and EM simulation software.Knowledge of RF/wireless system architecture and WiFi/BT/Cellular protocol.Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.",
+    "JobPostTime": 1625933118,
+    "CompName": "Facebook, Inc.",
+    "CompUrl": "https://powertofly.com/companies/facebook-inc",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Menlo Park",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

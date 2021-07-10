@@ -1,0 +1,17 @@
+{
+    "JobId": "523316",
+    "JobTitle": "Network Engineer",
+    "JobFullDesc": "Raytheon Technologies has an immediate opening for a Candidate to provide day-to-day support of the network infrastructure, including server and workstation installation and troubleshooting, network cabling, hands-on experience with TCP/IP including sub-netting, routing, Domain Name Services, network security, network configuration and management, and vendor product line familiarity on a fast paced program in the McLean, VA area.  Required Skills include but are not limited to the following:The right candidate must have a minimum of Ten (10) years of experience to include:  Designing, installing testing, implementing and maintaining complex communication networks using and implementing network standards All aspects on local area communication networks Configuring and trouble-shooting both MS Windows and UNIX/Linux based system connectivity Fundamental understanding of the System Engineering and PM lifecycle VMWare and Virtualization Architecture/Design Ability to create and present complex systems designs Analytical and problem solving skills Network Engineering, Design, Systems Administration Experience with Unix/Linux & Windows operating systems FORTRAN, C, and Java Programming Interpersonal skills as well as strong oral and written communications skills  Knowledge SkillsThe right candidate will possess knowledge and experience in:  Operating networks, particularly identification and solution of problems, restart I recovery, additions, deletions, and modifications of network switches, and servers. Analyzing network characteristics (e.g. traffic time, connect time, transmission speeds, utilization, packet size, and throughput) and recommending procurement, removals, and modification to network components.  Current Clearance \u2013 US Citizen with a active TS/SCI with Positive Customer Polygraph and must be crossover eligible.CSM Hiring  Required Education Bachelor's degree in Computer Science or related field.Ten (10) years of related experience ",
+    "JobPostTime": 1625775072,
+    "CompName": "Raytheon Technologies",
+    "CompUrl": "https://powertofly.com/companies/raytheon-technologies",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Mclean",
+            "addressRegion": "VA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

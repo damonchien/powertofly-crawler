@@ -1,0 +1,17 @@
+{
+    "JobId": "523998",
+    "JobTitle": "Sr Software Engineer",
+    "JobFullDesc": "ABOUT THE ROLE:\u00a0Partners with stakeholders and leads team efforts to build and maintain backend services and solutions to support user-facing products, downstream services, or infrastructure tools and platforms used across Uber.\u00a0ABOUT THE TEAM: \u00a0The goal of the fulfillment foundations team is to build, maintain and optimize the foundational services/frameworks on top of which the Uber's core fulfillment flow is built. Some of the critical services/frameworks that this team develops and supports are: Google Cloud Spanner, Fulfillment Events Workflow, Java/Go Frameworks for Fulfillment Services, etc. The services and frameworks that this team owns are used by 100s of engineers across the company. We directly support Uber Rides, Uber Eats, Uber Freight and many more experimental products.\u00a0This team is part of the Marketplace Org which is the real-time decision-making and systems behind Uber (ex: matching riders/drivers, pricing, fulfillment). We develop systems that can recover from business failures, monitor conformance, develop complex user state machine flows to unlock new product lines in the company.What You'll DoYou will independently write high quality code, comprehensively test your code changes, and launch new featuresYou will collaborate with stakeholders to design, build, and deploy complex systems at scale that intersect critical Uber trafficYou will collaborate with other engineers to scope and assign work to projects that you are leading and be responsible for its ultimate deliveryBasic Qualifications2+ years of experience in systems software engineeringSound understanding of computer architecture and CS fundamentalsProficient in one of the following programming languages: Go, Java, Python, C/C++Preferred Qualifications4+ years of experience in systems software engineeringBS or MS in Computer Science or a related technical field, or equivalent experienceDetailed problem-solving approach and knowledge of algorithms, data structures, and complexity analysisExperience working on large-scale distributed systemsGrit, drive, and a strong feeling of ownership coupled with collaboration",
+    "JobPostTime": 1625792625,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "San Francisco",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

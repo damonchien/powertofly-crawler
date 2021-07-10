@@ -1,0 +1,17 @@
+{
+    "JobId": "524603",
+    "JobTitle": "Staff Engineer - Uber Eats - Search and Discovery",
+    "JobFullDesc": "About the Role\u00a0The Eats Discovery team is responsible for the serving, ranking and end to end experience of Home-Feed and Search functionalities in Uber Eats.\u00a0The team\u2019s mission is to craft a reliable, personalized and delightful discovery experience for all delivery occasions. As the world moves towards increased adoption of delivery services, we believe that effortless discovery will be one of the biggest product differentiators in the years to come.\u00a0\u00a0The Discovery group has 4 charters:Relevance: Feed, menu and ordering-cart relevance, multi objective rankingSearch: Query formulation, understanding, semantic search, search relevancePlatform: Scalability, availability, app-responsivenessExperience: Feed, Search and Browse UX across all mobile platforms\u00a0The team is looking for someone with deep experience in large scale Applied ML (Recommender systems, Search, Ads, Content relevance etc.) who can take our Ranking and Personalization efforts to the next level while working across all the above charters and many partner teams.\u00a0Checkout some of our work here - https://eng.uber.com/tag/eats-discovery/Basic QualificationsSubstantive (5+ years) hands-on experience with machine learningGood product intuition, ML intuition and communication skillsSolid understanding of large scale system architecture and infrastructureAbility to collaborate with many different parter teams (both upstream and downstream)Preferred QualificationsMachine Learning experiencePlatform Engineering experience: Scalability, availability, app-responsiveness",
+    "JobPostTime": 1625792782,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "San Francisco",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

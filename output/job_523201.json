@@ -1,0 +1,17 @@
+{
+    "JobId": "523201",
+    "JobTitle": "Applications Quality Assurance Engineer",
+    "JobFullDesc": "\n\n\n\nOverview\n\n\n\nThe Application Quality Assurance Engineer enhances our internal applications by providing unit testing, regression testing, and issue documentation. This person will be required to test in-house developed applications or other required systems. They must be willing and able to take ownership of the components they are assigned and apply their technical expertise and ingenuity to arrive at the best solution that solves the business requirement. Significant independent thought is required of this position.\n\n\n\n\nResponsibilities\n\n\n\nDevelop and execute software unit test plans in order to identify software problems and their causesPlan test schedules or strategies in accordance with project scope or delivery datesDocument test procedures to ensure reproducibility and compliance with standardsDevelop automated regression tests for web based and Java Swing ApplicationsDevelop or specify standards, methods, or procedures to determine product quality or release readinessIdentify, analyze, and document problems with program function, output, online screen, or contentTravel to office sites 10% of time\n\n\n\n\nQualifications\n\n\n\nRequired:Minimum 3 years' experience in skill areas required for this positionExperience developing and executing manual and automated test suitesExperience working with Java /Java SwingExperience testing web-based enterprise applicationsExperience working on *nix environmentsWorking knowledge of some or all of the following quality assurance methods: unit, integration, regression, user interface automated testingFamiliarity with QA tools and techniques, bug tracking systems, test design, and executionKnowledge of browser and server side test automation (Selenium)Highly self-motivated and proactiveAbility to comprehend complex business requirements and translate those into test plansAbility to work in a small distributed teamAbility to work effectively with all levels within the organizationAbility to learn new technologies in a fast-paced and demanding environmentHigh school diploma or equivalentPreferred:Computer Science or related degree strongly preferredFinancial Services experience a plusExperience Using QFTest a plusExperience using writing and executing SQL scripts a plusPhysical Requirements:Role requires sitting or standing in front of a computer monitor for prolonged periods of time in a fixed neck position. Constant use of a computer or other office equipment resulting in repeating motions of the hands and wrists. Ability to lift and carry at least 30 lbs\n",
+    "JobPostTime": 1625774458,
+    "CompName": "Pacific Western Bank",
+    "CompUrl": "https://powertofly.com/companies/pacific-western-bank",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Durham",
+            "addressRegion": "NC",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

@@ -1,0 +1,17 @@
+{
+    "JobId": "523432",
+    "JobTitle": "Senior Backend Engineer II - Identity Platform",
+    "JobFullDesc": "About the TeamIdentity Platform is responsible for management for all of Uber\u2019s entities including riders, drivers, partners, eaters, shippers, trucks, vehicles, organizations, enterprise customers, etc.We enable Uber's directory services by providing a highly available, performant and scalable Identity Platform. This platform serves as a source of truth for all of Uber's identity data.We operate and manage the highest scale services at Uber (~600K QPS), and provide end to end user lifecycle management for all Identity aspects: from signups, logins to authentication preferences, enrollments and Role Based Access Control informationWe enable Uber's business growth by creating trusted user accounts and providing seamless and secure access to Uber applications and services.Uber's Identity Platform team is a brand new team which will provide APIs and storage for all of Uber\u2019s Identity entities and attributes. We support various identity use cases which span Uber's mobile and web applications (Rider, Driver, Eats, Freight, Elevate, U4B etc.), Uber acquisitions (Cornershop, Jump, Careem etc.), Uber services offered through 3rd party applications (AliPay, PayPay, Line Messenger, McDonalds etc.) as well as enabling our external partners to seamlessly offer their services within Uber apps.About the RoleThe Identity Platform team is seeking a Senior Backend Engineer II with experience building high scale services and platforms, as well as experience working with identity systems and data modeling. As an engineer on the Identity Platform team, you'll be responsible for designing, data modeling and developing the next-generation directory services for Uber. This platform will provide both the APIs and storage for Identity related entities including users, organizations, etc.What You'll DoSolve challenging distributed systems problems around scalability, reliability, low latency, high-availability with one of the largest-scale services at UberBuild APIs to authenticate/register/manage users, groups, and organizationsContribute towards modeling and building a storage layer for Identity directory services in a multi-region configurationRe-architect our existing infrastructure to allow identity directory storage and APIs to handle all user/organization related identity entities and attributesSolve complex problems around synchronization of data between identity platform and Hive, to support backward compatibility for existing clientsBasic QualificationsBachelors degree in Computer Science or related technical field or equivalent practical experienceExperience hands-on coding using general purpose programming language (eg. C/C++, Java, Python, Go, C#)Experience designing and implementing large scale distributed systemsPreferred QualificationsExperience with OAuth 2.0, OpenID Connect, SAML, X.509, and other standard authentication protocols.Experience with enterprise level data modeling at scaleExperience in areas of Authentication, Identity Management, Authorization, and Access Control\u00a0",
+    "JobPostTime": 1625792437,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Seattle",
+            "addressRegion": "WA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

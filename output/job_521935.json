@@ -1,0 +1,17 @@
+{
+    "JobId": "521935",
+    "JobTitle": "Data Center Operations Engineer",
+    "JobFullDesc": "Facebook is seeking an entry level engineer to apply their technical skills in a fast-paced and complex environment. Having a working knowledge of server hardware and the desire to participate in projects at a large-scale data center is central to this role. This position will work to resolve and diagnose server issues at scale, escalate issues and work with distributed engineering teams. Additionally, this role will work within the rack lifecycle processes with a focus on helping build out and enable cloud scale compute and storage environments. Solid communication skills are a requirement for this role. This person should enjoy working in a fast-paced environment where adaptability and flexibility will be key to their success. The successful candidate will be able to work independently and also within groups.  The candidate should also have a working knowledge and experience in at least one of the following core areas: Networking, Programming/Scripting, Hardware and OS repair.Work within Facebook's ticketing system in support of the health of Facebook's server fleetFirst point of contact for break fix techniciansAccountable for assisting with projects (new capacity as well as retrofits) and repairs throughout the data centerUnderstand and initial analysis to debug hardware, and Linux OS related issuesDemonstrate personal leadership Identifying and helping to create documentation for the global data center knowledge baseAssist with process improvements and best practices in data center operationsParticipate in on-call rotation (once a month on call for a week after hours, first point of contact)MINIMUM QUALIFICATIONSBachelor's degree or equivalent experience/certificationKnowledge of Linux and server hardware repairsExperience modifying and developing in Python, SQL, and/or shell scriptingWorking conceptual knowledge of technologies such as HTTP, DNS, RAID, and DHCPFacebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.",
+    "JobPostTime": 1625861002,
+    "CompName": "Facebook, Inc.",
+    "CompUrl": "https://powertofly.com/companies/facebook-inc",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Los Lunas",
+            "addressRegion": "NM",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

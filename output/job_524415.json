@@ -1,0 +1,17 @@
+{
+    "JobId": "524415",
+    "JobTitle": "Staff ML Engineer, Adtech",
+    "JobFullDesc": "About the Team:\u00a0The AdTech team enables Uber\u2019s growth by enabling acquisition and retention of Uber users through marketing. We are responsible for building and managing systems that improve efficiency and effectiveness of Uber marketing business function. We support various marketing use cases which span Uber's mobile and web applications (Rider, Driver, Eats, Freight, Elevate, U4B etc.), Uber acquisitions (Cornershop, Jump, Careem etc.) through various marketing channels (Search, Social, Programmatic Display, Job boards, AppAds, and as many as 40 more).\u00a0Optimization team within AdTech solves automation of intelligent decision making regarding how much money should be invested and spent for different marketing channels. You will build machine learning driven automation systems that will influence multi-million dollar investment decisions. You will consume impressions and click level petabyte scale data, build highly available and highly scalable backend systems flexible enough to handle channel niche complexities and granularities. We are looking for engineers who can come and help define the next generation architecture for marketing at Uber. If you like working with billions of rows of data, 10ms response times, and having a multi-million dollar impact per engineer, we'd like to hear from you!\u00a0\u00a0About the Role\u00a0Leads efforts within the organization to drive the design, development, optimization, and productionization of ML or ML-based solutions and systems that are used to solve strategically important problems. This role is also responsible for defining and driving the improvement of key ML infrastructure for model development, training, deployment needs and scaling ML systems.\u00a0Minimum qualifications:PhD or equivalent in Computer Science, Engineering, Mathematics or related field AND 4-years full-time Software Engineering work experience OR 7-years full-time Software Engineering work experience, WHICH INCLUDES 4-years total technical software engineering experience in one or more of the following areas:\u00a0Programming language (e.g. C, C++, Java, Python, or Go)Large-scale training using data structures and algorithmsModern machine learning algorithms (e.g., tree-based techniques, supervised, deep, or probabilistic learning)Machine Learning Software such as Tensorflow/Pytorch, Caffe, Scikit-Learn, or Spark MLLib\u00a0\u00a0Note the 4-years total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these).\u00a0 The years of specialized experience are not necessarily in addition to the years of Education & full-time work experience indicated.\u00a0\u00a0Technical skills:\u00a0Required:Deep LearningScalable ML architectureFeature management\u00a0Nice to have:Privacy aware/bias free/Interpretable MLPersonalizationOptimization (RL/Bayes/Bandits)",
+    "JobPostTime": 1625792726,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Sunnyvale",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

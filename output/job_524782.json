@@ -1,0 +1,17 @@
+{
+    "JobId": "524782",
+    "JobTitle": "Staff Backend Engineer- Rider",
+    "JobFullDesc": "About the Role\u00a0Staff Engineers at Uber are expected to have a deep impact on a wide variety of technology decisions, spanning many projects across an entire org, and in many cases multiple orgs. We are looking for a technologist who has experience building consumer products at scale.\u00a0As a Staff Engineer on the Rider Core Team, you\u2019ll provide technical leadership in building the core product\u00a0 experiences and infrastructure powering our flagship Uber app, that directly impacts millions of lives each day.\u00a0This is a unique opportunity for a seasoned engineer and strong collaborator who can work with talented people in product, design, data science, operations, and engineering to help build our next-generation consumer experience products. It\u2019s a very high impact role where you will interface with all major product & platform teams at Uber. The role requires a person whose communication and leadership is as strong as their technical chops, and who enjoys both building solutions themselves and guiding others equally passionately.What\u200c \u200cYou\u2019ll\u200c \u200cDoProvide technical leadership to a passionate, experienced, and diverse engineering team to design and build the next major generations of the flagship Uber app.Develop an excellent understanding of Uber\u2019s business strategy and goals, and the Rider org\u2019s product and design goals such that you will be one of our key leaders expected to identify and solve our highest impact, highly complex problems.See the big picture and identify inefficiencies and opportunities for meaningful improvements across the entire Rider org and Uber as a whole. Drive alignment on how to tackle these and lead the delivery of high leverage solutions for them to have the widest impact.Raise the bar to make Uber engineering truly best-in-class by improving best practices, producing exemplary code, documentation, automated tests and thorough and precise monitoring.Staff level engineers at Uber are exceptional mentors. They are trusted advisors for both team members and leaders alike.Basic QualificationsProven record of designing and implementing large scale distributed systems.5+ years relevant engineering experience.Experience with Go, Java, or C++ (bonus points for more than one).Preferred QualificationsStrong product focus and acumen.Experience with architecting high-scale consumer products in close partnership with mobile engineers.Experience with very large data processing pipelines, and data integrations.Proven ability to develop other strong senior engineers into Staff engineers, operating and leading their own initiatives with org-wide scope and high impact.",
+    "JobPostTime": 1625792851,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Sunnyvale",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

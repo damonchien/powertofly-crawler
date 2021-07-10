@@ -1,0 +1,17 @@
+{
+    "JobId": "523173",
+    "JobTitle": "Product Manager - Platform",
+    "JobFullDesc": "The company:\nAt Datadog, we\u2019re on a mission to build the best monitoring platform in the world. We operate at high scale\u2014trillions of data points per day\u2014providing always-on alerting, metrics visualization, logs, and application tracing for tens of thousands of companies. Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way.\n\u00a0\nThe opportunity:\nAt Datadog, our customers come first. In this role, you will work cross-functionally to determine how our users interact with our products. You will break down complex problems into steps that drive product development at speed.\nAs a PM working on our core Platform, you will analyze our existing products, look across a variety of goals and potential directions, and set the vision for how our customers use Datadog.\n\u00a0\nYou will:\n\nLearn everything about monitoring (theory, applications, best practices) and pour it back into building a great product.\nIdentify customers' needs and opportunities through data analysis, interviews, and research through quantitative and qualitative methods.\nDefine and lead the vision and strategy to drive business through new initiatives.\nYou will routinely interact with customers\u2019 business, product and engineering teams to deeply understand their needs, and translate those into business cases, features, product requirements and roadmaps.\nYou will manage multiple parallel projects and iterations alongside engineering, and ensure the delivery of feature releases.\nWork with marketing and customer success teams to evangelize new features and services that are easy to use and understand.\nCommunicate feature releases to internal and external users.\n\n\u00a0\nRequirements:\n\nA technical degree or equivalent experience\nYou have experience with hands-on software development.\nYou are a master at prioritization\nYou love to serve customers, internal and external\n\n\u00a0\nAvailable Opportunities:\n\nApplication Platform\nMonitors & Notifications\nIncident Management\nRBAC/Auth\nMobile\nDatadog Query Language\nFor more information on these opportunities, please visit our Blog!\n\n\u00a0\u00a0\nEqual Opportunity at Datadog:\nDatadog is an\u00a0Affirmative Action\u00a0and\u00a0Equal Opportunity Employer\u00a0and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.\n\u00a0\nYour Privacy:\nAny information you submit to Datadog as part of your application will be processed in accordance with Datadog\u2019s\u00a0Applicant and Candidate Privacy Notice.",
+    "JobPostTime": 1625774406,
+    "CompName": "Datadog",
+    "CompUrl": "https://powertofly.com/companies/datadog",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "New York City",
+            "addressRegion": "NY",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

@@ -1,0 +1,17 @@
+{
+    "JobId": "524930",
+    "JobTitle": "Software Engineer 2",
+    "JobFullDesc": "Come join the Messaging team in Microsoft Teams. Microsoft Teams is the fastest growing business application in Microsoft history, and we are not done! We have great ambition to go beyond business collaboration and into the daily life of consumers, serving not only as the primary chat and collaboration solution in the Office 365, as well as the inbox messaging and calling solution for Windows 11. At Messaging team, you will be at the very center of the actions, working on some of the most highly used feature area - chat. We have recently surpassed 145 million Daily Active Users and is the most popular chat based collaboration solution in the marketplace. There are so much more that we have planned and will need your help in this exciting endeavor!ResponsibilitiesThe Messaging Team is searching for an experienced and talented web developer who are well versed in the modern web application technologies such as React, GraphQL / Apollo and Typescript. Applicants should exhibit pride in craftsmanship around building compelling and engaging user experiences while still having the depth to understand how their designs affect the performance, security, and other technical aspects of the overall application. A strong understanding (strength, common pitfalls and performance best practices) of TypeScript and mainstream JavaScript frameworks such as React is preferred.\u00a0\u00a0QualificationsA successful candidate should meet most of the criteria:\u2022 2+ years of experience building modern web applications with React or Angular\u2022 3+ years software industry experience\u2022 Experience with TypeScript and React\u2022 Experience with web accessibility standard and enabling screen reader a strong plus\u2022 Experience with telemetry, monitoring and dashboarding solutions, such as Aria, Kusto and Geneva a plus.\u2022 Committed to quality, including security, compliance and performance\u2022 Exceptional communication and interpersonal skills with customer focus\u00a0Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.\u00a0 We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request\u00a0via the\u00a0Accommodation request form.\u00a0Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "JobPostTime": 1625792951,
+    "CompName": "Microsoft Corporation",
+    "CompUrl": "https://powertofly.com/companies/microsoft-corporation",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Bellevue",
+            "addressRegion": "WA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

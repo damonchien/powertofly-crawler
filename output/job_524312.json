@@ -1,0 +1,17 @@
+{
+    "JobId": "524312",
+    "JobTitle": "Backend Software Engineer II - Help Intelligence",
+    "JobFullDesc": "About the Role\u00a0\u00a0As a Backend Software Engineer on the Help Intelligence team (Uber Customer Obsession org), you will help architect and implement highly-performant, low-latency, reliable, scalable distributed systems used by hundreds of millions of riders and eaters, millions of drivers and delivery partners every day. You will work closely with our internal stakeholders across all Uber business verticals: from Mobility (Driver, Rider), to Delivery, to Freight, and others. On the financial side of things, these lines of business bring in a total revenue of 65 billion dollars in 2019 and we are on track to break that record with reopening after covid-19 in 2021!\u00a0You will have an outstanding opportunity to solve engineering problems for one of the largest best-in-class support ecosystems on the planet. You will have a chance to help Uber customers discover the support contents and automations, and triage their support needs across all the communication channels: phone, chat, message, and video - in thousands of cities around the globe.\u00a0What the Candidate Will Do:Working closely with partner teams to productize, integrate, and validate machine learning (ML), natural language processing (NLP), conversational AI, and search systems end-to-end to promote intelligence, automation, and personalization at the outermost layer of the customer obsession for Uber.Architecting and implementing backend microservices to discover and automate Help/Support interactions across all Uber mobile/web applications that have a direct impact on our business growth and customer experience.Collaborating with product, design, operation, data science, and peer engineering teams to drive the customer experience metrics and achieve cost savings and/or efficiency improvement.Applying state-of-the-art technologies to tackle the breadth of the problems involved in this area and performing constant solution adjustments arising from constantly evolving user behaviors (e.g. post-covid).Writing quality documentation, and fostering a strong culture of quality.Basic Qualifications:Bachelor\u2019s degree in Computer Science or related technical field or equivalent practical experienceExperience coding using general purpose programming language (eg. C/C++, Java, Python, Go)At least two (2) years of software engineering experience\u00a0Preferred Qualifications:Knowledge to build highly-scalable, robust, and fault-tolerant services.Passion for learning new skills and working on high-impact productsKnowledge with machine learning (ML) and natural language processing (NLP) model development, conversational AI systems (e.g. Google DialogFlow), and search techniques (e.g. ElasticSearch).\u00a0\u00a0",
+    "JobPostTime": 1625792700,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "San Francisco",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

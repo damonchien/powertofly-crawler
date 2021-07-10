@@ -1,0 +1,17 @@
+{
+    "JobId": "524490",
+    "JobTitle": "Senior Cloud Security Engineer",
+    "JobFullDesc": "\u00a0About the Role\u00a0\u00a0Our mission is to empower our customers to protect users\u2019 privacy and safety in the cloud through proactive risk management. We are working with partner teams on secure architectures, threat models, optimized cloud security policies, monitoring solutions, threat detection, and incident response. We work across multiple cloud service providers, such as AWS and Google Cloud, and develop state-of-the art security services as part of the open source community.\u00a0Basic QualificationsExperience with administration of cloud data storage and -computing solutions (Google Cloud Platform (preferred) or AWS/AzureClear understanding of cloud computing services/deployment architectureSolid programming skills (Python, Go)Prefferred QualificationsFamiliarity with PCI, SOC2, SOX, and ISO standardsAgile/SCRUM experienceCISSP CertificationWeb server/client architecture and implementation experienceExperience in operation and configuration of both Windows and Linux systems\u00a0\u00a0\u00a0",
+    "JobPostTime": 1625792764,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Dallas",
+            "addressRegion": "TX",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

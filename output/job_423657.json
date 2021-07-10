@@ -1,0 +1,17 @@
+{
+    "JobId": "423657",
+    "JobTitle": "Digital Design Engineer",
+    "JobFullDesc": "Facebook Reality Labs focuses on delivering Facebook's vision through Virtual Reality (VR) and Augmented Reality (AR). The compute performance and power efficiency requirements of Virtual and Augmented Reality require custom silicon. Facebook Silicon team is driving the state of the art forward with breakthrough work in computer vision, machine learning, mixed reality, graphics, displays, sensors, and new ways to map the human body. Our chips will enable AR & VR devices where our real and virtual world will mix and match throughout the day. We believe the only way to achieve our goals is to look at the entire stack, from transistor, through architecture, firmware, and algorithms.We are growing our ASIC Design and \u00b5Architecture team within AR Silicon and are seeking engineers at all levels who will work with a world-class group of researchers and engineers using their digital design skills to implement and contribute to the development and optimization of power efficient graphics IPs.Contribute to scalable architecture and \u00b5Architecture designs for low-power graphics IP design.Drive the top-level \u00b5Architecture definition and develop the necessary RTL.Drive the chip-level integration, verification plan development and verification.Supervise the RTL-to-GDS flow and assist with synthesis and timing closure.Contribute to ASIC digital \u00b5Architecture, design and verification.Support the test program development, chip validation and chip life until production maturity.Work with FPGA engineers to perform early prototyping.Support hand-off and integration of blocks into larger SOC environments.Assist with performance/power analysis of IP models.MINIMUM QUALIFICATIONS2+ years of experience as a Digital Design Engineer and/or a Chip Lead.Experience in RTL coding, synthesis and/or SoC Integration.Experience in digital design \u00b5Architecture.Experience with at least 1 procedural programming language (C, C++, Python etc.).Bachelor's in Electrical Engineering/Computer Science or equivalent experience.PREFERRED QUALIFICATIONS2+ years of experience as a Digital Design Engineer and/or a Chip Lead.Experience in RTL coding, synthesis and/or SoC Integration.Experience in digital design \u00b5Architecture.Experience with at least 1 procedural programming language (C, C++, Python etc.).Bachelor's in Electrical Engineering/Computer Science or equivalent experience.Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.",
+    "JobPostTime": 1625933206,
+    "CompName": "Facebook, Inc.",
+    "CompUrl": "https://powertofly.com/companies/facebook-inc",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Austin",
+            "addressRegion": "TX",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

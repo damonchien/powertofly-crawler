@@ -1,0 +1,17 @@
+{
+    "JobId": "524471",
+    "JobTitle": "Sr Staff Engineer",
+    "JobFullDesc": "About the Role\u00a0Uber\u2019s Infrastructure team is seeking an experienced software engineering leader to help build the future of urban transportation.\u00a0 A Senior Staff-level Engineering role at Uber is special. Engineers at this level represent the top 2% of Engineers at Uber and will have a deep impact across a wide variety of business and technology decisions spanning multiple projects and at times, locations. We are looking for an experienced technologist who can architect, implement, and scale our developer tools and frameworks that Uber developers use to build Uber\u2019s services and Apps.\u00a0\u00a0What You'll DoProvide technical leadership to build, develop, and scale the developer tools and frameworks that enable Uber developers to ship code quickly, reliably, efficiently and at scale.Engage with world class engineers across Uber to understand how to increase their development velocity and the quality of our software.Work across platforms for Go, Java, Android, iOS, and Web.\u00a0\u00a0Basic QualificationsA developer-centric mindset and a passion for building high-quality platforms for other developers.Past experience in successfully designing and building frameworks and tools that scale to large 1000+ teams of developers.\u00a0\u00a0Proven track record of results as a Senior Staff Engineer level or above at a premier technology company10+ years of software development experience.\u00a0\u00a0Preferred QualificationsPrior experience with integration/implementation of software stacks on top of AWS and/or GCP is a plus.Excellent Go or Java development.Product and customer-centric mindset. The platform we are building is going to be leveraged by thousands of Uber engineers across many teams.\u00a0\u00a0About the Team\u00a0The Developer Platform team at Uber builds systems for consumption by all the other engineering teams at Uber. We set best practices and help other teams architect better solutions, and we\u2019re not afraid to get our hands dirty. You\u2019ll get to experiment with a range of cutting edge technologies that will define our next generation platforms and increase the productivity of all engineers at Uber.About Uber ",
+    "JobPostTime": 1625792755,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Seattle",
+            "addressRegion": "WA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

@@ -1,0 +1,17 @@
+{
+    "JobId": "435009",
+    "JobTitle": "Network Capacity Engineer, Edge",
+    "JobFullDesc": "Facebook designs, builds and operates one of the largest globally-distributed CDNs in the world. As a Network Capacity Engineer for Facebook's Edge Network, you will have a unique opportunity to use your broad engineering skill set to partner with network engineers and optimization engineers to build infrastructure that improves the user experience for billions of people across Facebook, Instagram, WhatsApp, Messenger, Oculus, and many more products.  You will manage the global capacity plan for the Edge network, including making critical strategy decisions around architectures, resiliency, and timelines.Drive development of network infrastructure strategies with highly technical product, software, and network infrastructure teamsPerform analysis across data sources to understand forecasts, drive cross functional agreement, and create a global network strategy to meet business needsEnsure regional strategies align with the common global strategy goals for the Network teamAlign the reliability strategy across production engineering, backbone engineering, software engineering, and network delivery in order to set global standardsDrive both strategic and tactical capacity planning to ensure that Facebook products have sufficient network capacity while maintaining operational and financial disciplineLead partnerships across various functional teams and organizations to find optimal solutions to drive improvements in infrastructure capacity planning, delivery and managementCreate Product Requirements Documents to guide development of software to effectively and reliably create build plans for the global Edge networkMINIMUM QUALIFICATIONSDegree in a technology field (e.g. Engineering, Computer Science) or equivalent work experience5+ years of experience managing large scale networks or network projectsKnowledge of network infrastructure and networking planningExperience analyzing and interpreting data, drawing conclusions, defining recommended actions, and reporting results to various stakeholdersExperience partnering with highly technical engineering teams to solve open ended issuesFacebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.",
+    "JobPostTime": 1625933291,
+    "CompName": "Facebook, Inc.",
+    "CompUrl": "https://powertofly.com/companies/facebook-inc",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressRegion": "",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

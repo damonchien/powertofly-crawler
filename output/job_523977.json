@@ -1,0 +1,17 @@
+{
+    "JobId": "523977",
+    "JobTitle": "Automations Analyst",
+    "JobFullDesc": "About the Role\u00a0LATAM Community Operations is part of the Global Community Operations organization which provides premier customer support to all Uber customers and Uber products.\u00a0This role will be focused on developing and maintaining support policy automations to drive efficiency and quality in our customer support.The Automation Analyst should be a capable technologist that is fluent in scripting languages. The Automation Analyst will work in tandem with the Automation Program Manager to track and report on progress. They will partner with teams leading support for various Uber personas (Rider, Eater, Driver, etc.) to identify, develop, test, and scale new automations. They will also partner with the Customer Obsession product team, Global Product Support, and similar teams in other mega-regions to de-dupe Global automation efforts.What You'll DoPartner with Automation Program Manager to maintain existing automations, identify improvement opportunities, build solutions and resolve bugs as they ariseContinuously identify opportunities for existing and new automations, helping consolidating insights and crafting robust automations\u00a0Help craft the long-term product roadmap to improve existing both automations and regional capabilities to develop new automationsBasic QualificationsMinimum of 3 years of professional experience\u00a0\u00a0Knowledge of programming in Javascript\u00a0Knowledge of programming in Python\u00a0Knowledge on testing techniques\u00a0Fluency in SQL and Google Sheets\u00a0\u00a0Preferred QualificationsComfortable owning and balancing multiple projects or work streams at onceAbility to synthesize information quickly, highlight the key takeaways, and disseminate actionable insights",
+    "JobPostTime": 1625792613,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Mexico City",
+            "addressRegion": "",
+            "addressCountry": "MX"
+        }
+    ],
+    "Skills": []
+}

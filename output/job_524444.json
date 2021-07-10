@@ -1,0 +1,17 @@
+{
+    "JobId": "524444",
+    "JobTitle": "Staff Backend Engineer - Uber AI - (Michelangelo Platform)",
+    "JobFullDesc": "Uber AI\u2019s mission is to optimize and innovate Uber\u2019s products and business using machine learning and AI. The group consists of Uber's machine learning platform team which enables machine learning at scale, AI building blocks which enable product teams to build unique experiences and engagements with product teams on their business problems.The group consists of machine learning engineers, mobile engineers, backend engineers and research scientists and engineers.About the RoleUber is on the lookout for top-notch software engineers to join our Michelangelo Machine Learning Platform team in the California Bay Area. This role involves building and managing robust distributed systems, and solving infrastructure challenges to empower Uber's product engineering and data science teams with the latest technologies in Artificial Intelligence. You will join a team of strong software and systems engineers, executing in a fast paced environment.What You\u2019ll DoEnvision, design, and deliver software and tools as part of state-of-the-art machine learning platform.System architecture design, including management of upstream and downstream dependencies.Drive efficiencies in systems and processes through automation: capacity planning, configuration management, performance tuning, monitoring, and root cause analysis.Participate in periodic on-call rotations and be available for critical issues.Basic QualificationsBS or MS in Computer Science or a related technical discipline, or equivalent experience.7+ years of software engineering experienceExperience in systems software engineering. Sound understanding of computer architecture and CS fundamentals.Proficient in one of the following programming languages: Java, Scala, Go, Python, C/C++.Preferred QualificationsSystematic problem-solving approach and knowledge of algorithms, data structures, and complexity analysis.Experience in building and managing distributed systems.Grit, drive and a strong feeling of ownership coupled with teamwork.Knowledge of big data analytics technologies such as Apache Spark, Hadoop, Hive, Presto.Experience in developing machine learning platforms.Experience designing analytic tooling\u00a0",
+    "JobPostTime": 1625792739,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "San Francisco",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

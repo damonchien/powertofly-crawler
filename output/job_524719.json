@@ -1,0 +1,17 @@
+{
+    "JobId": "524719",
+    "JobTitle": "Junior Monitoring Specialist",
+    "JobFullDesc": "Job DescriptionLogMeIn is a market leader in Unified Communications and Collaboration Software, Identity and Access Management and Customer Solutions. We have millions of customers around the world, including users of our most popular products like LastPass and the GoTo Suite. We are a remote centric company that offers a stimulating and challenging work environment where the sharing of knowledge among employees is the cornerstone of our culture.LogMeIn is seeking an enthusiastic, skilled and customer centric monitoring engineer with a passion for building, troubleshooting, and operating large scale monitoring solutions.As a member of the Global Infrastructure Services team, you will support the tools and integrations for monitoring infrastructure and application data for GoTo and other Logmein products. Your responsibilities will include design, deployment, and operational support of the Monitoring Tools.\u00a0 Your focus will be enabling other teams for using the solutions and educating operations employees of best monitoring practices.ResponsibilitiesAbility to work under pressure, solve technical problems quickly (minutes or hours), and automate processes and solutions using available tools.Monitoring production systems (dashboards and metric based notifications)Working on business-critical production support environments -Windows and Linux basedDeploying and managing CentOS or equivalent Linux Distribution and Microsoft Windows Server, including performing server builds, migrations, upgrades and patchingProven ability to develop and document solutions and configurations required.Work with vendors and introduce new technology/features to the environment.Qualifications2-3 years of Infrastructure and public/private Cloud Monitoring ExperienceExperience working on Metrics, Statistics and Data using Grafana or Wave Front is preferredPrevious hands-on experience on one of the monitoring tools-> Nagios, SCOM, Zabbix, LogicMonitor, Wavefront by Vmware, Pingdom or other SaaS based monitoring tools.Good understanding of cloud (AWS/GCP/ORACLE/OpenStack) is preferred.Experience with any configuration management tool- Ansible, Chef, Puppet is desired but not a mustShould be able to support 12 hours On Call (US/Canada Time zone) and available to resolve queries/ escalation on need basis.Good Communication and decision-making skills.",
+    "JobPostTime": 1625792831,
+    "CompName": "Logmein, Inc.",
+    "CompUrl": "https://powertofly.com/companies/logmein-inc",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Montreal",
+            "addressRegion": "QC",
+            "addressCountry": "CA"
+        }
+    ],
+    "Skills": []
+}

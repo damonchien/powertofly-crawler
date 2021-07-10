@@ -1,0 +1,17 @@
+{
+    "JobId": "423129",
+    "JobTitle": "FPGA Design Engineer",
+    "JobFullDesc": "As the FPGA Design Engineer, you will be working within the FRL FPGA development team to build advanced AR/VR rapid prototyping platforms. You will be responsible for the architecture, RTL design, simulation, verification and test/bringup of FPGA's to meet end-to-end system requirements. This will require communicating and collaborating across functional teams to gather performance targets and use cases in order to build the right system solution. You will work closely with the systems integration and FW/SW teams for test/bringup/debug and will assist with system characterization and control/algorithm refinement. FPGA design work will require knowledge of and familiarity with all stages of the FPGA design process including simulation, floor planning, timing closure, and in-system debugging. Knowledge of Xilinx or Altera FPGA parts, their toolchains and architectural features is required.RTL development and testing for FPGA targets/platforms to support rapid prototypingDirect contingent/contract design and test resourcesAssist with algorithm analysis, verification and improvementCollaborate in a team environment across multiple engineering disciplinesDevelop component and system level performance specificationsMINIMUM QUALIFICATIONS5+ years of FPGA design experience with Xilinx FPGA parts and Vivado design toolsExperience with at least 1 hardware description language (VHDL, Verilog, SystemVerilog)Experience with commercial HDL simulators (Xcelium/Incisive, Modelsim/Questa, VCS, or Riviera)Experience with board level testing (oscilloscope, logic analyzer)BS Electrical Engineering (EE), Computer Engineering (CE) or Computer Science (CS) or equivalent experiencePREFERRED QUALIFICATIONS5+ years of FPGA design experience with Xilinx FPGA parts and Vivado design toolsExperience with at least 1 hardware description language (VHDL, Verilog, SystemVerilog)Experience with commercial HDL simulators (Xcelium/Incisive, Modelsim/Questa, VCS, or Riviera)Experience with board level testing (oscilloscope, logic analyzer)BS Electrical Engineering (EE), Computer Engineering (CE) or Computer Science (CS) or equivalent experienceFacebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.",
+    "JobPostTime": 1625933301,
+    "CompName": "Facebook, Inc.",
+    "CompUrl": "https://powertofly.com/companies/facebook-inc",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressRegion": "",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

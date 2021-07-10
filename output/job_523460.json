@@ -1,0 +1,17 @@
+{
+    "JobId": "523460",
+    "JobTitle": "Sr. Software Engineer - Business Applications",
+    "JobFullDesc": "With over 20,000 employees globally, Uber is bolstered by a network of tools and services to improve productivity, business operations, sustainability, and corporate infrastructure. The Information Technology team makes Uber a better place to work.About the RoleAs a Senior Software Engineer in the Business Applications team, you will be responsible for the engineering and implementation of scalable Salesforce related technical solutions. These solutions will have significant impact to Uber\u2019s results in areas of user growth, safety and global expansion. Senior Software Engineers will solve extremely challenging technical problems for Uber Eats, Uber Freight, Uber for Business, Law Enforcement Response Team and others.What You'll DoSolve business issues through Salesforce development and standard methodologiesImprove and build solutions to address architectural gaps or technical debtPropose best technologies for data processing and data frameworkPlay an active role in positively influencing the design directionCheck in and deploy code and configurations; participate in release managementParticipate in story planning, standups and retrospectivesMentor engineers; Drive enforcement of standards, tools and methodologiesExecute with a team of solution architects, program managers and engineersProduce documentation and tutorials that enable other teamsBasic QualificationsSpecialist in Lightning, Apex, VisualForce, SOQL/SOSL, and JavascriptExperienced with Salesforce SOAP API, REST API, and BULK APIExperienced with at least 1 of the following languages: Java, Go, PythonExperienced with Web UI frameworks in Visualforce pages or Lightning components.Excellent verbal, written, communication, interpersonal and presentation skillsExcellent multi-functional stakeholder managementPassion for technology, industry research and enjoys solving business problemsPreferred QualificationsMinimum of 7+ years of Salesforce application development experience",
+    "JobPostTime": 1625792448,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "San Francisco",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

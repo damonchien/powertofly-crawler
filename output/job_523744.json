@@ -1,0 +1,17 @@
+{
+    "JobId": "523744",
+    "JobTitle": "Staff ML Engineer -- Pricing and Incentives",
+    "JobFullDesc": "About the Role\u00a0The role will be within the pricing and incentives domain in Uber's marketplace team. The team charter spans incentive allocation and optimization to balance the market and optimize revenue, dynamic trip pricing based on marketplace conditions. The role will provide an opportunity to work on some of the most strategic marketplace problems at Uber scale that impact Uber's global business very directly.\u00a0What you'll do:Work with product, data science, and eng leadership to shape the technical roadmap and problem formulations for the team.Leverage algorithmic knowledge in machine learning/optimization/statistics to design robust approaches engineering solutions to positively impact Uber's business.Work with the team to productionize the solutions at scale.Basic QualificationsBS/BE degree in Computer Science and related field7 years of experience in leveraging machine learning/statistics/optimization to build models in productionPreferred QualificationsMaster\u2019s in a relevant field (computer science, engineering, statistics, ML) or PhDSome experience in leading teams either as a tech lead or a managerExperience building algorithms with large scale dataTrack record of building large-scale, highly-available systems for both batch and streamingDeep domain expertise and are one of the recognized specialists in one or multiple areas like reinforcement learning, personalization, or deep learning.",
+    "JobPostTime": 1625792550,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "San Francisco",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

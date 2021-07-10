@@ -1,0 +1,17 @@
+{
+    "JobId": "523477",
+    "JobTitle": "Senior Data Scientist - Uber Freight",
+    "JobFullDesc": "As a Data Scientist on the Shipper team at Uber Freight, you will play an instrumental role in the definition and development of our data products such as Lane Recommendations, Market Explorer, and Coverage Risk. You are deeply technical, have keen product intuition, and can quickly toggle between first-order problem-solving and modeling techniques. You are a great team player and enjoy working with a group of devoted cross-functional partners to \"make things happen\".\u00a0What You'll Do\u00a0* Bring strong technical expertise to help drive profitability at Uber Freight\u00a0* Build and productionize algorithmic pricing models\u00a0* Drive innovation, generate and validate new data, tactics and product ideas that maximize our business impact\u00a0* Be creative - relentlessly identify new ideas and data sources to solve very difficult problems\u00a0* Feature engineering and analytics to identify and demonstrate the opportunities of modeling improvements\u00a0* Drive cross-functional initiatives to set qualitative objectives and quantitative goals\u00a0* Lead the creation of pragmatic, prioritized, actionable roadmaps that effectively distill vision and strategy into efficiently shipped results.\u00a0\u00a0Basic Qualifications\u00a0* Masters degree in operations research, computer science or a related quantitative field.\u00a0\u00a0* Strong expertise in developing and deploying large scale machine learning and optimization models in production\u00a0* At least 5 years of industry experience in data science, with significant personal experience as a technical contributor.\u00a0\u00a0* Experience solving deep technical problems using optimization and statistical approaches.\u00a0* Knowledge of experimental design and analysis\u00a0* Experience with common analysis tools - Python, R, and SQL. Expert with code and programming concepts.\u00a0\u00a0Preferred Qualifications\u00a0* PhD degree in operations research, computer science or a related quantitative field\u00a0* Experience working with spatial data, in revenue management, bidding, or in the logistics industry\u00a0* Tech lead experience and passion for mentoring\u00a0* Expertise in convex programming and computational optimization",
+    "JobPostTime": 1625792455,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "San Francisco",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

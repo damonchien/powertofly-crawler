@@ -1,0 +1,17 @@
+{
+    "JobId": "523579",
+    "JobTitle": "Sr iOS Engineer II - Navigation",
+    "JobFullDesc": "About the Role\u00a0Whether engineering more accurate ETAs or helping drivers navigate to the perfect pick-up spot, our mapping technologies are integral to the magic of the Uber platform. On the Maps Engineering team, we use the latest ML, GPS, and telematics solutions to make transportation on our platform safer and more accessible.\u00a0You will be part of the Navigation team that builds Uber's navigation experience, which our driver partners use worldwide. As a Sr iOS Engineer II, you will lead development of clear visual and spoken guidance systems to help drivers move people and goods as efficiently, and as safely, as possible.\u00a0What You'll DoSubstantially evolve key navigation systems used by millions of drivers a day in the core trip flowWork alongside backend engineers to drive end-to-end experiences that involve visual, text and voice guidancePartner closely with the sister teams in Maps Display, Maps Routing, Driver and Eats Courier to increase consistency and efficiency during the Pickup and Dropoff (PUDO) experience.Deep collaborations with UberAI, basemaps, safety and UXR teamsHalf a billion minutes on navigation screen time per dayBasic QualificationsBachelor's degree in Computer Science or related technical field or equivalent practical experienceStrong programming and debugging skills (obj-C and/or Swift) and 7+ years of professional industry experienceExperience building in either mobile platform/sdk/dev tools, or mobile consumer facing featuresPreferred QualificationsMS/PhD in Computer Science or a related fieldExperience with Navigation and Routing systemsExperience collaborating in a multi-functional team working closely with Product, Design and Data ScienceExperience with Java",
+    "JobPostTime": 1625792497,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Sunnyvale",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

@@ -1,0 +1,17 @@
+{
+    "JobId": "276824",
+    "JobTitle": "Android NDK Engineer",
+    "JobFullDesc": "Every month, billions of people access Facebook products using mobile devices from across the world. Our mobile teams constantly push the boundaries of the user experience across all our apps, including Facebook, Instagram, WhatsApp, Messenger, and more, as a leader in an exciting and fast-paced industry that is evolving daily.As our mobile user base grows, we\u2019re looking at ways to scale our engineering teams to continue delivering new and innovative products while still moving fast. We\u2019re looking for Android NDK Engineers who are passionate about working on client infrastructure that powers all of the products we build across our mobile teams. You will get an opportunity to influence the way we build mobile apps at Facebook. In this role, you will build core Android infrastructure in C++, build awesome new tools that will lead to better efficiency and work on complex system investigations throughout our mobile stack. If you are interested in joining a world-class team of passionate people and industry veterans who like to work hard and play hard, we look forward to hearing from you soon!Build client side mobile infrastructure in C++Debug app wide issues across Java and C++Improve app wide performance and efficiencyDevelop tools for debugging, instrumenting and shipping native code on AndroidMINIMUM QUALIFICATIONS5+ years of object-oriented software development experience2+ years experience in building infrastructure in C++ using the Android NDK2+ years mobile application development experience (Android or iOS)Experience in understanding code bases, including API design techniquesExperience in the following technologies:Experience with C++ language and related frameworksExperience with Multi-Threading and memory management specific to mobile devicesExperience debugging system issues across languagesFacebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.",
+    "JobPostTime": 1625933109,
+    "CompName": "Facebook, Inc.",
+    "CompUrl": "https://powertofly.com/companies/facebook-inc",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressRegion": "",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

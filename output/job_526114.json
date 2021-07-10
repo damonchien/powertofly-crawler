@@ -1,0 +1,17 @@
+{
+    "JobId": "526114",
+    "JobTitle": "Senior DevOps \u2013 Cloud Center of Expertise",
+    "JobFullDesc": "Vice PresidentWe offer:\u00a0\n\u00a0\n- To work with some of the best professionals in the business - for a firm that values individual intellect as much as teamwork\n- State-of-the-art offices that are designed to maximize collaboration\n- Flexible working arrangements\u00a0\n- Enriching challenges that provide opportunity for constant learning and advancement\n- An environment which is leveraging technology to its highest potential\u00a0\n\u00a0\n\nTeam Profile:\u00a0\n\u00a0\nEnterprise Technology & Services (ETS) delivers shared technology services for the Firm supporting all business applications and end users. ETS provides capabilities for all stages of the Firm\u2019s software development lifecycle, enabling productive coding, functional and integration testing, application releases, and ongoing monitoring and support for over 3,000 production applications.\n\u00a0\nETS also delivers all workplace technologies (desktop, mobile, voice, video, productivity, intranet/internet) in integrated configurations that boost the personal productivity of our employees. Application and end user services are delivered on a scalable, secure, and reliable infrastructure composed of seamlessly integrated datacenter, network, compute, cloud, storage, and database services.\n\u00a0\n\nPosition Description:\n\u00a0\nWe are looking for an experienced engineering specialist that is required to work on public cloud projects with opportunities to work on both Azure and AWS in a global financial organization. The role is focused on improving operational stability and reliability.\u00a0\n\u00a0\n\nSuccessful candidates will have:\n\u00a0\n- Prior SRE experience or the willingness to specialize in the field\n- Experience in transforming IT process to one of a Devops culture\n- Strong infrastructure, development and Devops skills\n- Proven track record of service ownership, accountability and building trusted relationships\n- Experience in Change and Incident Management concepts\n\u00a0\n\nPrimary responsibilities:\n\u00a0\n- Work in a globally distributed team to provide innovative and robust public Cloud solutions\n- Collaborate with vendors to develop and deploy Cloud services to meet customer expectations\n- Collaborate with IT Security to ensure necessary controls to Cloud services are deployed and tested\n- Design, optimize and document the operational aspects of the Cloud platform\n- Develop Infra as Code to automate cloud deployments\n- Develop automation workflows in CI/CD pipeline adhering to change management process\n- Facilitate tabletop exercises for incident management processes, chaos engineering\n- Evaluate and implement emerging Devops tools\n- Complex troubleshooting of on-premise and cloud environment issues\n",
+    "JobPostTime": 1625860932,
+    "CompName": "Morgan Stanley Technology",
+    "CompUrl": "https://powertofly.com/companies/morgan-stanley-technology",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Montreal",
+            "addressRegion": "QC",
+            "addressCountry": "CA"
+        }
+    ],
+    "Skills": []
+}

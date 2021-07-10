@@ -1,0 +1,17 @@
+{
+    "JobId": "526016",
+    "JobTitle": "Sr. Customer Engineer- AzureDev",
+    "JobFullDesc": "Professional skillsProven track record in successful consultative/complex technical and deployment projects, architecture, design, implementation, and/or support of highly distributed applications.Proven track record of building relationships with senior IT and business decision makers.Ability to solve customer problems through cloud technologies effectively collaborating across organizational and regional boundaries often in ambiguous situations.Exceptional verbal and written communication skills.Ability to explain complex topics in ways that can be understood by technical and business decision makers.Fluency in English is essential.\u00a0 International experience and being able to communicate in multiple languages is an advantage.ResponsibilitiesTechnical skillsProven subject matter expertise (SME) in the following areas:Application development and debugging with .NET Framework, .NET Core and C#Understanding of programming concepts such as call stacks, threading, synchronization, performance-related concepts and debuggingAzure Development Stack, including but not limited to App Services, Serverless (Functions and Logic Apps), Containers (AKS), API Management and Application GatewayAzure Infrastructure Stack, including but not limited to Virtual Machines, Storage, Networking and Azure Active DirectoryCloud monitoring with Application Insights, Log Analytics and Azure MonitorDevOps practices, including CI/CD, Automation, Azure DevOps, PowerShell scripting, ARM template and TerraformManagement and security practices, including RBAC, Azure Security Center and Azure PolicyAzure platform design using Azure Enterprise Scale / Cloud Adoption FrameworkAzure application design using Azure Well-Architected FrameworkQualificationsEducationBachelor's degree in Computer Science or equivalent.The following Microsoft Certifications would be appreciated.1. Azure Solutions Architect (AZ-303 + AZ304)2. Developing Solutions for Microsoft Azure (AZ-204)3. Azure DevOps Engineer Expert (AZ-400)ExperiencesPrior customer-facing work experience in a Consulting/Architecture position within an IT Solution Provider and/or services company.\u00a0Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.\u00a0 We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request\u00a0via the Accommodation request form.\u00a0Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "JobPostTime": 1625847193,
+    "CompName": "Microsoft Corporation",
+    "CompUrl": "https://powertofly.com/companies/microsoft-corporation",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressRegion": "",
+            "addressCountry": "HK"
+        }
+    ],
+    "Skills": []
+}

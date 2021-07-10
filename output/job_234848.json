@@ -1,0 +1,17 @@
+{
+    "JobId": "234848",
+    "JobTitle": "Software Engineer - Platform Security Engineer",
+    "JobFullDesc": "Are you excited to be part of the VR revolution and work on cutting edge consumer devices and services? Are you passionate about security and have a proven security track record? The Security Software Engineer will work on the Oculus Security Engineering team designing, building, and supporting the infrastructure and services that allow Oculus to move fast, securely and at scale. The ideal candidate will share our passion for engineering solutions to complex security problems, while minimizing employee friction and maximizing productivity.Design and implement systems that enhance the security of Oculus products and infrastructureDesign and implement abuse detection systemsConduct design and code reviewsEvaluate engineering responses to security threats and implement mitigationsProvide security guidance to new projects and initiativesCode in PHP, C/C++, Java, and PythonMINIMUM QUALIFICATIONS3+ years of software development experienceBS degree in Computer Science or related fieldExperience applying fundamental security concepts to systemsExperience with either device security concepts or cloud security conceptsPREFERRED QUALIFICATIONS3+ years of software development experienceBS degree in Computer Science or related fieldExperience applying fundamental security concepts to systemsExperience with either device security concepts or cloud security conceptsFacebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.",
+    "JobPostTime": 1625933184,
+    "CompName": "Facebook, Inc.",
+    "CompUrl": "https://powertofly.com/companies/facebook-inc",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Seattle",
+            "addressRegion": "WA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

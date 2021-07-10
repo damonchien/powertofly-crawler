@@ -1,0 +1,17 @@
+{
+    "JobId": "519590",
+    "JobTitle": "DATA ANALYST (PRICING)",
+    "JobFullDesc": "uShip has a unique opportunity to support its product team across multiple products with advanced data science and analytical techniques.  The primary focus of the data analyst will be to develop reliable pricing models for transporting large or bulky goods throughout the US and Canada.  The data analyst will interface with a number of departments and the executive team while advancing our strategic initiatives in a highly competitive marketplace and for our B2B products and services.\n\nPRIMARY RESPONSIBILITIES\n\n\nWork with primary stakeholders to understand project requirements\nGather data from internal and external sources\nWork closely with data architecture and analyst teams\nGenerate reliable pricing models that may be integrated within the uShip product\nCreate testing pipelines that evaluate the effectiveness of the model output\nIterate on models to optimize performance\nRegularly present findings to stakeholders and executive team\nWork with product and development teams to integrate models\nWork within the AWS ecosystem to house data, train, and deploy models\nContinuously research and update skillset\n\nREQUIREMENTS\n\n\nStrong SQL skills\nCompetency at creating reliable data pipelines\nFluent in at least one object-oriented programming language (e.g. Python, Java, Scala or R)\nSolid understanding of Statistics, A/B testing, hypothesis testing\nStrong understanding of machine learning concepts and algorithms (Supervised/Unsupervised, classification/regression, etc.)\nAdvanced ability to perform exploratory data analysis, outlier detection, data cleaning, feature engineering\nAbility to understand the output of complex algorithms and communicate to relevant parties\nBasic understanding of APIs and how to host machine learning models\nIterate on models rapidly to optimize team performance and revenue\nWork closely with operations leaders to jointly own daily, weekly, and monthly profitability reports\nWillingness to proactively solve problems through non-conventional methods or approaches\nEntrepreneurial spirit, eager to work closely with front line operations teams, their customers, and 3rd parties  \n\nPREFERRED\n\n\nExperience with geographical data\nExperience with Time Series analysis\nFamiliarity with major commerce routes or freight lanes\nEconomic analysis of impacts of promotional pricing\nUndergraduate degree in Data Science, Statistics, Computer Science, or other relevant field\n\nWHY USHIP?uShip offers big-company benefits in a small-ish sized company because we really value and are committed to our people. There are even some extras that will surprise you.\n\n\n100% Paid Health and Dental available\n401(k) matching with no vesting\nStock Options\n100% paid maternity and paternity leave\nuShip shipping credit ($750)\nPet Insurance\nMonthly Wellness Reimbursements\nCasual dress code\nDog-friendly \nSo much more!\n",
+    "JobPostTime": 1625772472,
+    "CompName": "uShip, Inc.",
+    "CompUrl": "https://powertofly.com/companies/uship-inc",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Austin",
+            "addressRegion": "TX",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": "a/b testing, object oriented design, Sql"
+}

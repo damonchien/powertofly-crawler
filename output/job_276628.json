@@ -1,0 +1,17 @@
+{
+    "JobId": "276628",
+    "JobTitle": "Android Software Engineer",
+    "JobFullDesc": "Every month, billions of people access Facebook products using mobile devices from across the world. Our mobile teams constantly push the boundaries of the user experience across all our apps, including Facebook, Instagram, WhatsApp, Messenger, and more, as a leader in an exciting and fast-paced industry that is evolving daily. We are seeking full-time Android Software Engineers to join our mobile teams. As an Android Software Engineer, you will specialize in building elegant products on world-class technologies that bring our social experiences to billions of people, anytime and anywhere.We are looking for developers with experience in user interfaces, infrastructure, and/or tools supporting applications on Android using the Android SDK. If you are interested in joining a world-class team of passionate people and industry veterans who like to work hard and play hard, we look forward to hearing from you soon!Work closely with our product and design teams to build new and innovative application experiences for AndroidImplement custom native user interfaces using the latest Android programming techniquesBuild reusable Android software components for interfacing with our back-end platformsAnalyze and optimize UI and infrastructure application code for quality, efficiency, and performanceMINIMUM QUALIFICATIONS5+ years of object-oriented software development experience1+ years experience building Android applications in Java using Android SDKExperience building maintainable and testable code bases, including API design and unit testing techniquesExperience with multithreading programming and mobile memory managementFacebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.",
+    "JobPostTime": 1625933199,
+    "CompName": "Facebook, Inc.",
+    "CompUrl": "https://powertofly.com/companies/facebook-inc",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressRegion": "",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

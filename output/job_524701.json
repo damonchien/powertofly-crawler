@@ -1,0 +1,17 @@
+{
+    "JobId": "524701",
+    "JobTitle": "Sr. Engineer - FPGA Design",
+    "JobFullDesc": "Job Description : The Microelectronics department in Raytheon\u2019s Intelligence and Space Systems\u2019 Hardware Engineering Center is seeking an experienced responsible engineering authority for Digital Design specifically ASIC and FPGA development. Required Skills:Minimum 5+ years  of related engineering experienceAt least 2-4 years of experience designing, implementing, verification, debugging, and delivering digital electronics including FPGAs and/or ASICs.At least 2-4 years of experience using VHDLAt least 2 years of experience with ASIC vendors and technologies such as Global Foundries 45nm or 14nm.At least 2 years of experience using FPGAs such as Xilinx, Altera, and/or SmartFusion.Experience in requirements allocation and generationExperience designing high speed interfaces for memories and SERDES channelsExperience with scripting language such as Python, Perl, TCL, etcDesired Skills: Experience designing and/or verification of digital ASICsExperience with verification languages (UVM, SystemVerilog, SystemC)Expertise in Xilinx and Microsemi FPGAs and their tool suites (Virtex  7 Series, Utrascale/ +)Experience designing embedded processors and FPGAsExperience writing low level embedded software (C, C++)Ability to work as part of a multi-disciplined team, providing technical and schedule status to management, customers and fellow team members.Proven customer-oriented personality. Experience presenting to and interfacing with customers (internal and external).Required Education:Bachelor degree in Electrical Engineering, Computer Engineering, Physics, or equivalentDesired Education: Advanced degrees in related fields or technology a plus.The ability to obtain and maintain a US security clearance.  U.S. citizenship is required as only U.S. citizens are eligible for a security clearanceThis position requires either a U.S. Person or a Non-U.S. Person who is eligible to obtain any required Export Authorization. ",
+    "JobPostTime": 1625792826,
+    "CompName": "Raytheon Technologies",
+    "CompUrl": "https://powertofly.com/companies/raytheon-technologies",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Dallas",
+            "addressRegion": "TX",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

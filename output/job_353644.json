@@ -1,0 +1,17 @@
+{
+    "JobId": "353644",
+    "JobTitle": "Camera Software Engineer, Portal",
+    "JobFullDesc": "Facebook Portal seeks a Camera Software Engineer. The successful candidate will have a good understanding of Video and Image Capture pipeline for embedded devices \u2013 Hardware and Software.Design, code, review, and tests camera related software features across all layers of the camera stack, including Android applications, Camera HAL and Linux kernel.All aspects of performance and system efficiency for the camera system, including providing detailed analysis and developing optimized system designs and code.Work closely with System Engineering Team, Hardware team, manufacturing partners and QA teams to deliver best in class products.Ensure security of the camera system, protecting our users' privacy.MINIMUM QUALIFICATIONSBachelor\u2019s degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent combination of education and experience.Knowledge of Video and Image Capture pipelines for consumer electronic products.Experience developing HAL implementations for Android devices.Experience developing and debugging in C/C++.5+ years of experience creating software for embedded/mobile platforms.PREFERRED QUALIFICATIONSBachelor\u2019s degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent combination of education and experience.Knowledge of Video and Image Capture pipelines for consumer electronic products.Experience developing HAL implementations for Android devices.Experience developing and debugging in C/C++.5+ years of experience creating software for embedded/mobile platforms.Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.",
+    "JobPostTime": 1625861037,
+    "CompName": "Facebook, Inc.",
+    "CompUrl": "https://powertofly.com/companies/facebook-inc",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Burlingame",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

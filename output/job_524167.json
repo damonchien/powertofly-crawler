@@ -1,0 +1,17 @@
+{
+    "JobId": "524167",
+    "JobTitle": "Senior Partner Engineer, Merchant Integration",
+    "JobFullDesc": "\u00a0About the Role\u00a0\u00a0By combining their technical strategy and industry expertise, Partner Engineers scalably empower merchant partners to adopt Uber\u2019s products and services to derive maximum business value.\u00a0As a Senior Partner Engineer, you will be responsible for:\u00a0Defining and executing on merchant integration strategy at a mega-region level.Interfacing directly with all different types of partners to understand how they can derive optimal business value through integrations.Working closely with:Product & Software Engineering teams to influence product strategy and accelerate product adoption.Operation and scaled support teams to improve their process efficiency.\u00a0Basic Qualifications\u00a0Experience working as a Software Engineer or with an Engineering educational background.Experience working in a client/partner facing roles with senior executive counterparts.Experience proactively influencing product direction and strategy.Proven data-analytics skills (e.g. SQL).\u00a0Preferred QualificationsExperience working with Merchant-style partners (Restaurant Brands; Point of Sales; Delivery Aggregators).Experience running or defining enterprise developer partner programs.\u00a0",
+    "JobPostTime": 1625792663,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Toronto",
+            "addressRegion": "ON",
+            "addressCountry": "CA"
+        }
+    ],
+    "Skills": []
+}

@@ -1,0 +1,17 @@
+{
+    "JobId": "524673",
+    "JobTitle": "Senior Security Software Engineer II",
+    "JobFullDesc": "Are you interested in tackling security at scale? Solving unique and challenging security problems? Our team works on every major project at Uber and provides security engineering and guidance to our internal customers. The security guidance team is chartered to build security into the DNA of Uber. We are engineers, pentesters, and security experts who work on major projects across all of Uber. Our team performs risk assessments, threat models, penetration tests and we develop systems and platforms to scale security across Uber's product engineering teams. To scales these efforts, requires automation to be developed and by building front and backend capabilities across numerous domains including penetration testing and security review platforms.",
+    "JobPostTime": 1625792813,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Seattle",
+            "addressRegion": "WA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

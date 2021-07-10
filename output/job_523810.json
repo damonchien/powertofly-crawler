@@ -1,0 +1,17 @@
+{
+    "JobId": "523810",
+    "JobTitle": "Software Engineer II-Backend/Data Engineer- AdTech Platform",
+    "JobFullDesc": "About the Team:\u00a0The AdTech team enables Uber\u2019s growth by enabling acquisition and retention of Uber users through marketing. We are responsible for building and managing systems that improve efficiency and effectiveness of Uber marketing business function. We support various marketing use cases which span Uber's mobile and web applications (Rider, Driver, Eats, Freight, Elevate, U4B etc.), Uber acquisitions (Cornershop, Jump, Careem etc.) through various marketing channels (Search, Social, Programmatic Display, Job boards, AppAds, and as many as 40 more).\u00a0About the Role:\u00a0Optimization team within AdTech solves automation of intelligent decision making regarding how much money should be invested and spent for different marketing channels. You will build machine learning driven automation systems that will influence multi-million dollar investment decisions. You will consume impressions and click level petabyte scale data, build highly available and highly scalable backend systems flexible enough to handle channel niche complexities and granularities. We are looking for engineers who can come and help define the next generation architecture for marketing at Uber. If you like working with billions of rows of data, 10ms response times, and having a multi-million dollar impact per engineer, we'd like to hear from you!\u00a0\u00a0",
+    "JobPostTime": 1625792564,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "San Francisco",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

@@ -1,0 +1,17 @@
+{
+    "JobId": "451236",
+    "JobTitle": "IAM Engineer ",
+    "JobFullDesc": "ProfessionalWe are looking for Principal IAM Engineer in our Enterprise IAM group, who will be heavily involved in the operations, configuration, deployments, and releases of E*TRADE\u2019s Enterprise IAM Platform. This includes Identity Management (IDM), Access Management (IAM), Identity Governance (IGA) and any other tool/products/processes leveraged in that space. The role expects significant ownership system operations to include monitoring, user support for Access Control and Access Recertification teams. Expectations include a deep working knowledge of SailPoint IIQ anticipating risks/issues/blockers and mitigating strategies whilst operating in a fast-paced environment.\n\u00a0\n",
+    "JobPostTime": 1625760133,
+    "CompName": "Morgan Stanley Technology",
+    "CompUrl": "https://powertofly.com/companies/morgan-stanley-technology",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Alpharetta",
+            "addressRegion": "GA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

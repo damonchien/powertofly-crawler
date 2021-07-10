@@ -1,0 +1,23 @@
+{
+    "JobId": "525199",
+    "JobTitle": "Technical Game Designer",
+    "JobFullDesc": "At Rockstar Games, we create world-class entertainment experiences.\nA career at Rockstar Games is about being part of a team working on some of the most creatively rewarding and ambitious projects to be found in any entertainment medium. You would be welcomed to a dedicated and inclusive environment where you can learn, and collaborate with some of the most talented people in the industry.\nRockstar North is looking for talented designers whose skill set combines technical excellence with a passion for making games. As part of the Design/Scripting team you will be using an in-house scripting language to code missions, ambient content, and/or gameplay systems. You will be required to engage with a range of classic game programming areas such as AI, physics, animation, UI, and data management among others.\nThis is a full-time permanent position based out of Rockstar\u2019s unique game development studio in the heart of Edinburgh.\nWHAT WE DO\n\nThe Design Team creates moments of exciting action gameplay, ultra-real slices of ambient life, and everything in between, implementing many of the complex systems that underpin our worlds.\nOur content spans many genres and types of gameplay. Our designers bring their wide knowledge of gaming, game design and outside culture to make every aspect of our games world class.\nWe assume responsibility for programming our content and systems, creating scripts which are often complex and intricate \u2013 both for single player and Online games.\nCreative thinking is an important part of what we do, and while we work to design briefs, designers have many opportunities to shape our games from the ground up.\nWe work closely with all departments in the company, bringing together narrative, art, code systems, UI, networking, animation, audio and many other elements to create immersive gameplay.\n\nRESPONSIBILITIES\n\nAuthor exciting new content using our in-house tools.\nWork to program game content or systems while meeting strict deadlines.\nLiaise with artists, animators and programmers to create compelling content.\nProvide clear and detailed reports of bugs to other teams.\n\nQUALIFICATIONS\n\nA Computer Science or Game Design degree is considered an advantage. However, relevant experience is taken into consideration.\n\nSKILLS\n\nStrong C# programming ability.\nA good understanding of object-oriented programming patterns.\nExcellent communication, technical & problem solving skills.\nHighly organized with proven ability to deliver on deadlines.\nA game design oriented mindset, and a passion for creating games.\n\nPLUSES\nPlease note that these are desirable skills and are not required to apply for the position.\n\nPrior experience working in medium to large sized development teams.\nAbility to design clean and concise APIs.\nExperience of game design/scripting in a professional environment.\n\nHOW TO APPLY\nPlease apply with a CV and cover letter demonstrating how you meet the skills above. If we would like to move forward with your application, a Rockstar recruiter will reach out to you to explain next steps and guide you through the process.\nRockstar is proud to be an equal opportunity employer, and we are committed to hiring, promoting, and compensating employees based on their qualifications and demonstrated ability to perform job responsibilities.\nIf you\u2019ve got the right skills for the job, we want to hear from you. We encourage applications from all suitable candidates regardless of age, disability, gender identity, sexual orientation, religion, belief, or race.",
+    "JobPostTime": 1625828564,
+    "CompName": "Rockstar Games",
+    "CompUrl": "https://powertofly.com/companies/rockstar-games",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Edinburgh",
+            "addressRegion": "",
+            "addressCountry": "GB"
+        },
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressRegion": "",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

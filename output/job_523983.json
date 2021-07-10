@@ -1,0 +1,17 @@
+{
+    "JobId": "523983",
+    "JobTitle": "Senior Data Analyst - Uber Freight",
+    "JobFullDesc": "\u00a0About the Role\u00a0\u00a0The Uber Freight Load Logistics team is responsible for operations required for pre, during and post Freight movements. The team deals with operations support necessary to build, book, track, and deliver a load as well as invoicing, payment and support issues.As a Sr. Data Analyst on the team, you will build frameworks, proactively surface insights, and develop monitoring to guide and communicate our product and algorithm development. Working alongside data scientists, engineers, and product managers, you will make sure that data is properly instrumented, validated, analyzed, and presented in order to make data-informed decisions. Along with demonstrating technical and analytical skills, you will manage stakeholders to drive consensus.\u00a0What you'll doGenerate ideas for exploratory analysis to shape product and algorithm developmentLeverage data to perform intensive analysis across all areas of our marketplace to drive product development and business strategyInstrument events and develop metrics and dashboards to monitor our performanceContribute to experiment design and interpret the results to draw detailed and actionable conclusionsPerform rigorous statistical analysis to understand the relationship between various factors that influence key outcomesCollaborate with cross-functional teams across disciplines such as product, engineering, operations, and marketingPresent findings to senior management to drive product decisionsBuild Metrics and Dashboards\u00a0Basic QualificationBachelor\u2019s degree in a technical field - engineering, economics, statistics or similar.3+ year of relevant experienceExcellent Data Storytelling skillsProficiency with SQLProficiency with Python or R data analysis toolsComfort with statistical conceptsExperience conducting experiment analysisLaser-focused on the details, while keeping strategic priorities top-of-mindResponsible and reliable to the people you work with - this is a team effort!Growth mindset. You seek out learning opportunities for yourself and the team.Project management savvy. You demand the best from your peers to get joint projects done well.Responsiveness. You deliver timely, digestible answers to complex tasks.\u00a0Preferred Qualification5+ year of relevant experienceMaster\u2019s degree in a technical field - engineering, economics, statistics or similar.Experience in marketplace, revenue management, or pricingExperience designing experiments\u00a0\u00a0",
+    "JobPostTime": 1625792616,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Miami",
+            "addressRegion": "FL",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

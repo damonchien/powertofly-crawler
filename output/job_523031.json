@@ -1,0 +1,17 @@
+{
+    "JobId": "523031",
+    "JobTitle": "Senior Java Engineer - Fixed Income",
+    "JobFullDesc": "Senior Java Engineer - Fixed IncomeWe are a global hedge fund with a strong commitment to leveraging innovations in technology and data science to solve complex problems for the business. The Fixed Income & Commodities Technology (FICT) group is responsible for providing firm wide live risk and P&L for all Fixed Income, Commodities, Credit and FX products.\u00a0FICT provides a dynamic and fast-paced environment with excellent growth opportunities.Responsibilities:Take part in the development and enhancement of the FICT backend distributed system.Ensure FICT provides continuous, uninterrupted, firm wide risk and P&L.Work closely with other global FICT research and tech team members.Help integrating the new FICT analytics library into the existing system, using up to date technologies. Mandatory Requirements:At least 5 years of experience developing in Java on the server sideExperience developing and maintaining large backend distributed systemsExcellent understanding of distributed messaging systems.Experience with large Spring IoC based systemsExperience working in Linux environmentGood understanding of various design patterns Experience working with Git / SVNStrong analytical and mathematical skills Strong problem solving capabilitiesSolid communication skillsAble to work independently in a fast-paced environment.Detail oriented, organized, demonstrating thoroughness and strong ownership of workPreferred Requirements:Experience with Credit pricing and risk analyticsExperience with Fixed income pricing and risk analyticsExperience with Docker/Kubernetes, micro services architectureExperience with Gemfire, Redis and Mongo\u00a0DBExperience with CI/CD",
+    "JobPostTime": 1625760302,
+    "CompName": "Millennium Management",
+    "CompUrl": "https://powertofly.com/companies/millennium-management",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "New York City",
+            "addressRegion": "NY",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

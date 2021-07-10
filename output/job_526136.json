@@ -1,0 +1,17 @@
+{
+    "JobId": "526136",
+    "JobTitle": "Sr Software Engineer, SDET",
+    "JobFullDesc": "Job DescriptionOverviewWe are looking for a Sr. Software Engineer, SDT who will be responsible for developing all frontend applications and backend services for authentication, authorization, and identity storage & management for LogMeIn\u2019s portfolio.The team primarily develops REST APIs and web experiences focused on sign in, profile management, and employee & customer facing administration portals, all running in AWS. The team also maintains relationships with 3rd party IdPs such as Okta, OneLogin, and Microsoft Azure to ensure a functioning presence within their respective app galleries for SAML login & automated user provisioning via SCIM. \u00a0The\u00a0Identity Platform team at LogMeIn is looking for a Senior Software Developer in Test. Your primary focus will be contributing to test automation and certification of changes made within a rock-solid, highly available\u00a0and scalable\u00a0authentication and authorization platform with single sign-on integrations through protocols such as SAML & OpenId Connect, and automated user provisioning through SCIM.ResponsibilitiesLead the design, implementation and execution of test strategies to ensure product quality.Participate in code peer reviews, designs sessions, and setup reusable and maintainable automated scripts to verify the functionality, accuracy and efficiency of our product across platforms.Actively participate in Scrum ceremonies, lead smoke tests and code deployment process improvements. Proactively expand knowledge regarding Agile software test methodologies and advancement, incorporating this knowledge where applicable.Seek out internal mentors, courses and various learning opportunities.Modify and evaluate software test plans and test automation frameworks used to test and optimize complex applications, resolving issues in innovative and practical ways.Provide recommendations to working groups regarding the improvement of testing practices in the wider organization.Contribute to the current automation framework's base code.Assist in researching and providing solutions to add, modify or enhance previously created automated scripts and frameworks.Collaborate with distributed teams located in PST time zone.QualificationsBachelor\u2019s degree or equivalent in computer science or related field. Equivalent experience may be substituted for formal education.5+ years minimum relevant work experience.Understanding Agile test methodologies, Scrum QA process and Agile project tools such as Jira.Knowledge of testing product quality in software requirements for features and system qualities (including performance and security), product design, software design, estimates, source code, test plans, unit test harnesses, software and system performance data, software product information and bug fixes.Strong knowledge of web\u00a0development and testing\u00a0standards.\u00a0Experience with\u00a0test automation tools\u00a0like Selenium.\u00a0Experience in programming language like\u00a0JavaOur ValuesBe RealThink BigMove FastKeep Growing",
+    "JobPostTime": 1625861058,
+    "CompName": "Logmein, Inc.",
+    "CompUrl": "https://powertofly.com/companies/logmein-inc",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Montreal",
+            "addressRegion": "QC",
+            "addressCountry": "CA"
+        }
+    ],
+    "Skills": []
+}

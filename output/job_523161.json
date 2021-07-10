@@ -1,0 +1,17 @@
+{
+    "JobId": "523161",
+    "JobTitle": "Fachinformatiker (gn) f\u00fcr SQL Datenbanken Support\u00a0",
+    "JobFullDesc": "Administration of SQL platforms in the enterprise environment within an operations teamPlanning, creation and proactive monitoring of databases.Assignment and administration of database authorisations.Security and incident management.Performance analyses and performance optimisation at database level.Migration of data models.Data protection, backup and restore.Creation and maintenance of documentation of database systems.Problem management according to ITIL:analysis of customer problems, development of solution strategiesCoordination and explanation of solution strategies with the customer's contact personsProcessing and documentation of incidents and problems in the ticket system PoB of Wendia\u00a0\u00a0No end-user support, cooperation on 2nd and 3rd level of the customerCooperation with the customer via telephone, mail or remote sessionAssumption of on-call duties#LI-AN1",
+    "JobPostTime": 1625760632,
+    "CompName": "SoftwareONE",
+    "CompUrl": "https://powertofly.com/companies/software-one-inc",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Erfurt",
+            "addressRegion": "",
+            "addressCountry": "DE"
+        }
+    ],
+    "Skills": []
+}

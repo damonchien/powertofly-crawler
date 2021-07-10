@@ -1,0 +1,17 @@
+{
+    "JobId": "517571",
+    "JobTitle": "Principal Software Engineer",
+    "JobFullDesc": "Who are we looking for\n\nWe seek a hardworking Senior Software Engineer to help develop robust advanced analytics and machine learning solutions that have a direct impact on the business. You should have experience in Python; a strong background in algorithms and data structures; hands-on AWS experience; as well as experience in database technology (e.g. Postgres, Redis), data processing technology (e.g. EMR), and familiarity with cloud infrastructure. As well, you should have a proven history of conceiving, executing, and delivering strategically important technology projects. As a Principal Engineer, you\u2019ll be expected to articulate a technology vision aligned to a critical business outcome, and to act as a technical leader to the teams involved in delivering that vision. Strong interpersonal skills are crucial for this role as you will be required to communicate your technical vision both down to individual team members and up to senior leaders for buy-in.\n\nWhat will you work on\n\nIf this is you, you\u2019ll be working with the Advanced Analytics and Machine Learning (AAML) team at Nike. With teammates in Portland, Boston, China, and Poland, you\u2019ll be joining a global organization working to solve machine learning problems at scale. You\u2019ll be crafting and implementing scalable applications that use prediction models and optimization programs to deliver data driven decisions that result in immense business impact. You\u2019ll also chip in to core advanced analytics and machine learning platforms and tools to enable both prediction and optimization model development. You thrive when surrounded by talented colleagues and seek to never stop learning. We are looking for candidates who enjoy a team and academic environment where we develop and share new skills, mentor, and share knowledge and software back to the analytics and engineering communities both within Nike and at-large.\nWe value and cultivate our culture by seeking to always be collaborative, intellectually curious, fun, open, and diverse.\n\nWho will you work with\n\nIn this role, you\u2019ll be working closely with the rest of our global team, along with Commercial and Consumer Analytics, Enterprise Architecture, and Solution Architecture. This role reports to a Director of Engineering on the AAML team.\n",
+    "JobPostTime": 1625774475,
+    "CompName": "Nike, Inc.",
+    "CompUrl": "https://powertofly.com/companies/nike-inc",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Beaverton",
+            "addressRegion": "OR",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

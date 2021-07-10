@@ -1,0 +1,17 @@
+{
+    "JobId": "524410",
+    "JobTitle": "Senior Software Engineer",
+    "JobFullDesc": "About the RoleThe Eats Discovery group is responsible for the serving, ranking, and end to end experience of the Discovery-Feed and Search functionalities in Uber Eats. The group's mission is to build a reliable, personalized, and leverage-able platform to enable effortless food discovery for consumers everywhere. As the world moves towards high adoption of delivery services, we believe that effortless discovery will be one of the biggest product differentiators in the years to come.The group owns 3 tier-1 (business critical) services, 30 machine learning models in production and over 300 data pipelines which ETL and monitor the data used for these models.Within Eats Discovery, the Eater Search team is helps eaters find their favorite stores and items quickly, efficiently, and delightfully. We focus on search retrieval, ranking, personalized recommendations, multi-objective optimization, and targeted user optimization.What You Will DoBuilding scalable retrieval and ranking systemsHelping setup the right tech / tools / processes to speed up experimentation velocityWorking closely with ML-Infrastructure teams (like Search Infra and Michelangelo)Building the state-of-the-art Search&Discovery platform for UberEatsBasic Qualifications4+ years of professional software development experience3+ years of programming experience with at least one modern language such as Java, C++, or C# including object-oriented design2+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systemsBachelor's degree in Computer Science or 8+ years of equivalent professional or military experiencePreferred QualificationsA strong focus on execution, delivery, and customer impact.Experience taking a leading role in building complex software systems that have been successfully delivered to customersKnowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operationsExperience with distributed computing and enterprise-wide systemsExperience influencing software engineers best practices within your teamExperience working with ML models, technologies, and large scale retrieval and ranking systems.",
+    "JobPostTime": 1625792725,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "San Francisco",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

@@ -1,0 +1,17 @@
+{
+    "JobId": "445926",
+    "JobTitle": "Software Engineer - ARVR Simulation Infrastructure, Horizon",
+    "JobFullDesc": "Facebook is exploring the potential of virtual and augmented reality to bring people together in new ways. We are designing technologies that help people to create, share meaningful moments, and build communities using the unique qualities of these immersive new mediums. We aim to develop experiences that put people first, defining a future where AR and VR enable us to connect with the people and content we care about like never before.Horizon is about bringing people together around shared, creative experiences. We\u2019re looking for engineers to make possible the creation of rich, simulated worlds of all sizes, complexities, and concurrency. The ideal candidate is an experienced software engineer with games or AR/VR industry background, with a strong focus in distributed real time simulations.Lead the development of a new simulated world architecture that allows for elastic use of cloud infrastructure and efficient use of client headsets.Provide the interface by which other teams are able to lay on specific simulation elements, such as physics, audio or scripting.Explore network and compute optimizations to reduce latency and expand capabilities.MINIMUM QUALIFICATIONSBachelor\u2019s degree in Computer Science, Mathematics, or related field6+ years experience as an engineer shipping real time simulations (ex. massively multiplayer or open world games.)In depth understanding of state synchronization architecture and networking and implications in games or other 3D interactive productsDemonstrated experience interfacing with other internal and external teams to incorporate their innovations and vice versaPREFERRED QUALIFICATIONSBachelor\u2019s degree in Computer Science, Mathematics, or related field6+ years experience as an engineer shipping real time simulations (ex. massively multiplayer or open world games.)In depth understanding of state synchronization architecture and networking and implications in games or other 3D interactive productsDemonstrated experience interfacing with other internal and external teams to incorporate their innovations and vice versaFacebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.",
+    "JobPostTime": 1625933243,
+    "CompName": "Facebook, Inc.",
+    "CompUrl": "https://powertofly.com/companies/facebook-inc",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressRegion": "",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

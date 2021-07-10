@@ -1,0 +1,17 @@
+{
+    "JobId": "182569",
+    "JobTitle": "Data Engineer",
+    "JobFullDesc": "The Data Services team is seeking a Data Engineer with a passion for creating data products to help create more engaging, personalized experiences for users across Conde Nast\u2019s properties. You will have the opportunity to build both product features and internal data tools, all while working with a diverse group of data sets - web events, ad streams, content and context models, etc. You will also get to work with the newest data technologies available. Above all, you will influence how users interact with Conde Nast\u2019s industry-leading journalism.\n\nPrimary Responsibilities\n\nDevelop and maintain scalable data pipelines, with a focus on writing clean, fault-tolerant codeMaintain various data stores and distributed systems, such as Hive and PrestoOptimize data structures for efficient querying of those systemsCollaborate with internal and external data sources to ensure integrations are accurate, scalable and maintainableCollaborate with data science team on implementing machine learning algorithms to facilitate audience intelligence and cross-brand personalization initiativesCollaborate with business intelligence/analytics teams on data mart optimizations, query tuning and database designsExecute proof of concepts to assess strategic opportunities and future data extraction and integration capabilitiesDefine data models, publish metadata, and best practice querying standards\nRequired Skills\n\n2+ years data engineering and/or software development experience, preferably with experience using a scripting language such as Python or JavaFluency in SQL (any variant)Experience with Hadoop and related technologies (Hive, Presto, Spark)Exceptional analytical, quantitative, problem-solving, and critical thinking skillsHave a collaborative work style with strong desire to work in dynamic, fast paced environment that requires flexibility and ability to manage multiple priorities\nDesirable Skills\n\nExperience with workflow / ETL tools and schedulers; e.g. Luigi, AirflowExperience with AWS tools; especially EMR, S3, LambdaExperience with GCP tools; e.g. BigQuery, DataFlow, PubSubExperience with Apache Beam",
+    "JobPostTime": 1625772012,
+    "CompName": "Conde Nast",
+    "CompUrl": "https://powertofly.com/companies/conde-nast",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "New York City",
+            "addressRegion": "NY",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": "etl tools, software development, Python, Sql, Hadoop"
+}

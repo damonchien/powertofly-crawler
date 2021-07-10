@@ -1,0 +1,23 @@
+{
+    "JobId": "346549",
+    "JobTitle": "Full Stack Engineer",
+    "JobFullDesc": "The database market is massive (the IDC estimates it to be $89B+ by 2024!) and MongoDB is at the head of its disruption. The MongoDB community is transforming industries and empowering developers to build amazing apps that people use every day. We are the leading modern data platform and the first database provider to IPO in over 20 years. Join our team and be at the forefront of innovation and creativity.\nThe Full Stack Engineer of Go-to-market (GTM) operations plays a unique role within the greater go-to-market operations team by driving the effectiveness and efficiency of our customer-facing teams through the best use of technology. This engineer will be responsible for coming up with solutions to business problems around integrations, data ingestion, and transformation.\nIn this role, you will collaborate with key internal partners and apply your technical proficiency across different stages of the Software Development. The successful candidate will be part of a learning culture, where teamwork and collaboration are encouraged, excellence is rewarded, and diversity is respected and valued.\nAbout the role\n\nImplement custom integrations and data streams across internal business systems (Marketing software, data warehouse, Salesforce, etc)\nManipulate and transform data as needed from the business teams\nBuild a large-scale batch and real-time platform that will make data pipelines seamless and scalable for GTM teams\nHelp drive optimization, testing, and tools to improve the business systems\nCollaborate with other software engineers across the company to accelerate the growth of the business and remove the data silos\nImplement internal front end applications to expose data or control workflows\n\nWhat success looks like\n\nWorking closely to the business using your technical expertise to build creative solutions for the business problems presented\nPartnering with internal teams and leveraging their skills and tools to deliver the best solutions\nSuccessfully help hire and train an exceptional team that can deliver fast with a high quality\nThe Go-to-Market (GTM) team sees you as a source our knowledge of our internal systems and a lead to organize and create technical solutions involving integrations, data management and workflows\n\nThe candidate for this position should possess\n\nExperience with enterprise business systems such as Salesforce, Tableau, Data warehousing, Marketing Automation (Eloqua)\nAWS services such as EMR, Lambda, S3, Athena, Glue, IAM, RDS, etc\nExperience with data modeling, data warehousing, and building ETL pipelines\nAbility to build batch and streaming data pipelines with tools such as Spark, Airflow, and cloud-based data services like Google\u2019s BigQuery, Dataproc, and Pub/Sub\nExperience developing processes for automating, testing, and deploying your work\nSeveral programming languages (Python, Scala, Java, etc.)\nAt least 2 years of experience working in Apex Programming, Visual force, controllers, triggers, batch processes, APIs and web services\nGood understanding of best practices of coding standards\nA diverse set of databases like MongoDB, Cassandra, Redshift, Postgres, etc\nDifferent storage formats such as Parquet, Avro, Arrow, and JSON\nGit and Github\nCI/CD Pipelines\nFluent English\n\nTo drive the personal growth and business impact of our employees, we\u2019re committed to developing a supportive and enriching culture for everyone. From employee affinity groups, to fertility assistance and a generous parental leave policy, we value our employees\u2019 wellbeing and want to support them along every step of their professional and personal journeys. Learn more about what it\u2019s like to work at MongoDB, and help us make an impact on the world!\nMongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.\nMongoDB is an equal opportunities employer.",
+    "JobPostTime": 1625792888,
+    "CompName": "MongoDB",
+    "CompUrl": "https://powertofly.com/companies/mongodb",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressRegion": "",
+            "addressCountry": "BR"
+        },
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Dublin",
+            "addressRegion": "",
+            "addressCountry": "IE"
+        }
+    ],
+    "Skills": []
+}

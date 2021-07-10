@@ -1,0 +1,17 @@
+{
+    "JobId": "524178",
+    "JobTitle": "React Front End Developer",
+    "JobFullDesc": " React Front End Developer Do you want to build your brand by working for a leading consulting firm that drives eminence in the marketplace? Are you interested in leveraging your skills and strategic ideas to improve mission execution? If so, Deloitte could be the place for you! Our Government and Public Services (GPS) Strategy and Analytics team brings deep industry expertise, rigorous analytical capabilities and a pragmatic mindset to help solve our client's most complex business problems. Join our team, and play a key role in helping to design our clients' roadmap to the future and help transform the marketplace.Work you'll do:Develop responsive web front-end code using React to both rapidly create responsive web apps to meet end users' needs and create a modularized set of front-end components that make it easier to maintain and reuse for future capabilities and applications.Use a test-first development approach to integrate JUnit testing and JaCoCo /SonarQuebe code coverage reporting into the Jenkins build process.Develop and consume REST APIs using techniques and frameworks such as Hibernate, event-driven architecture, and service orchestration, and integrate JUnit testing and JaCoCo code coverage reporting into the Jenkins build processUse Hibernate and Spring MVC to quickly and efficiently create APIs that meet performance and security requirementsPerform Oracle database development activities, implement best practices, performance tuning, and troubleshooting any database bottle necksBuild applications quickly and efficiently to consume APIs and meet demanding performance and security requirements, using tools like Maven to validate that builds are reliable and reproducibleQualificationsBasic Qualifications: Bachelor's Degree in Computer Science, Engineering, Information Technology or a related fieldAbility to obtain & maintain a US Secret Level Security Clearance2+ years of experience as a Front End Developer2+ experience in JavaScript (preferably ES6) and React.jsExperience with charting libraries (D3.js and Highcharts.js)Experience leading a team of developersMust be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future Desired Qualifications:Experience with web-based development using Java/J2EE technologies. Expertise in full web stack development; Creating and consuming REST APIs, expertise in tools, techniques and frameworks like Hibernate, event-driven architecture, and service orchestration.Experience with deployment tools to package and deploy componentsExperience in both designing and developing platform components using Java Web Services, JWS/JAX, and Component Based Architectures.",
+    "JobPostTime": 1625792665,
+    "CompName": "Deloitte LLP",
+    "CompUrl": "https://powertofly.com/companies/deloitte1",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressRegion": "",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

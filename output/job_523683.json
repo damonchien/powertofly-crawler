@@ -1,0 +1,17 @@
+{
+    "JobId": "523683",
+    "JobTitle": "Color Scientist",
+    "JobFullDesc": "Facebook Reality Labs bring together world-class experts to develop and ship groundbreaking products at the intersection of hardware, software, and content. We have a clear mandate to ship products at scale. In particular, seemingly impossible products that define new categories that advance Facebook's mission of connecting the world. FRL is currently seeking a Color Scientist to help research and develop color management, camera color reproduction, display color calibration algorithms and color perception modeling for AR/VR products.Design and implement color management in AR/VR products.Improve and optimize camera color capture and processing pipeline.Explore the application of color technology on AR/VR through modeling, simulations, psychophysical experiments and prototypes.Develop ambient light sensor and color sensing technologies for consumer products.Support and lead technology development and productization.Work with cross-functional teams and provide strong leadership and expertise for new project developments.MINIMUM QUALIFICATIONSPh.D. degree in imaging science, color science, optics, image processing, or a related field.5+ years experience (inclusive of graduate school research experience) in imaging or color science research and development.Understanding of camera or display color processing pipeline.Experience coding in one of the following languages: MATLAB, Python, C/C++.PREFERRED QUALIFICATIONSPh.D. degree in imaging science, color science, optics, image processing, or a related field.5+ years experience (inclusive of graduate school research experience) in imaging or color science research and development.Understanding of camera or display color processing pipeline.Experience coding in one of the following languages: MATLAB, Python, C/C++.Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.",
+    "JobPostTime": 1625792529,
+    "CompName": "Facebook, Inc.",
+    "CompUrl": "https://powertofly.com/companies/facebook-inc",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Sunnyvale",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

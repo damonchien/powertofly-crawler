@@ -1,0 +1,17 @@
+{
+    "JobId": "524807",
+    "JobTitle": "Software Engineer (Frontend)",
+    "JobFullDesc": "As an engineer on the observability application team, you'll help build the next-generation of observability experiences that are used by every engineer at Uber to develop, scale, understand and monitor their systems in an environment with over 4000 micro-services, hundreds of thousands of CPU cores in multiple data-centers and the cloud, and hundreds of thousands of concurrent trips around the world! The key areas that the team is working on are:\u00a0Uber's alert configuration and execution engine that provides real-time alerting for Uber services. uMonitor as a product also serves as a cohesive entry point/observability portal for our engineers to discover observability golden signals and help investigate outages across the observability toolset.Our dash-boarding and visualization tools, which display context-sensitive information from across the Uber ecosystem, enabling quick detection and mitigation of issuesBuild a brand new platform for service level agreements and engineering metrics that helps engineering leadership as well as engineers monitor the long term health of their organizations and team and improve how software is built and delivered at Uber\u00a0What the Candidate Will Need / Bonus Points\u00a0---- What the Candidate Will Do ----Design, deliver and maintain systems that enable thousands of engineers and managers to improve the reliability of their services, apps and processesCollaborate with product managers, data science and other stakeholders to gather requirementsPartner with fellow engineers to architect, develop and scale observability tooling while keeping operational issues in mindMentor and support your fellow teammatesDrive ongoing efficiency and reliability improvements that improve the quality of the systems.Write clear documentation so that other engineers can partner to contribute and deliver---- Basic Qualifications ----Bachelor's degree in Computer Science or related technical field or equivalent practical experienceTwo (2) years of experience coding with HTML, CSS, JavaScript, and related web technologiesExperience in web frontend development experience with modern JavaScript tooling (React, Redux or equivalent, and so on)\u00a0---- Preferred Qualifications ----Experience working with react or node.js applicationsGood written, verbal communication skillsBS or MS in Computer Science or a related technical field, or equivalent experienceDetailed problem-solving approach and knowledge of algorithms, data structures, and complexity analysisExperience working on internal infrastructure toolsGrit, drive, and a strong feeling of ownership coupled with collaboration\u00a0",
+    "JobPostTime": 1625792861,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Sunnyvale",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

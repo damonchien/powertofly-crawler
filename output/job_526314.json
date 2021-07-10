@@ -1,0 +1,29 @@
+{
+    "JobId": "526314",
+    "JobTitle": "Technical Interviewer (40 hrs/wk)",
+    "JobFullDesc": "\nInterview Engineering at Karat\nKarat Interview Engineers are a community of experienced software developers who are equipped with best practices and technology needed to provide the most predictive, fair, and enjoyable interviews to software engineering job candidates. Interview Engineers include software development managers, software engineers, and freelancers covering the full technology stack. As an Interview Engineer, you will interview job candidates using the Karat approach and interviewing infrastructure in a wide variety of roles on behalf of leading companies worldwide.\nOur community is growing in Mexico...!\nKarat is looking to expand its technical interviewing presence in Mexico. We are looking for Interview Engineers who are available 40 hours per week. Technical interviews with Karat occur 24/7/365 with candidates located throughout the world so you can distribute your hours with what works best in your own schedule. This is a great opportunity to sharpen your interviewing skills and transform the technical interviewing experience for every candidate.\nAbout You\n\nExperienced software engineer with 5+ years of hands-on coding experience\nExtensive interviewing experience focused on:\n\nevaluating fundamental computer science skills (i.e. data structures, algorithms etc.)\nsoftware craftsmanship (i.e. understanding of unit testing\nsource control, APIs etc.)\nspecific technologies (i.e. iOS, distributed systems etc.)\n\n\nYou believe that interviewing is a first-class job\nStrong oral and written communication skills in English\nAble to empathize with candidates and provide actionable feedback\nStrong Internet connection and webcam (required to conduct interviews)\n\n",
+    "JobPostTime": 1625879112,
+    "CompName": "Karat, Inc.",
+    "CompUrl": "https://powertofly.com/companies/karat-inc",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressRegion": "",
+            "addressCountry": "MX"
+        },
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressRegion": "",
+            "addressCountry": "US"
+        },
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressRegion": "",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

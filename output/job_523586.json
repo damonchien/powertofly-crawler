@@ -1,0 +1,17 @@
+{
+    "JobId": "523586",
+    "JobTitle": "Senior Backend Engineer II - Rider Personalization",
+    "JobFullDesc": "On the Rides Engineering team, we write code that ignites opportunities for millions of people every day. We\u2019re focused on making Uber\u2019s core ridesharing products faster, safer, and more reliable by building scalable software solutions for riders and drivers on our platform.About the RoleWe have established a world-class Rider Intelligence engineering team to build critical machine learning solutions and frameworks to empower Uber\u2019s core Rider products. Our team\u2019s mission is to serve the ML needs of the entire Uber Rider organizations (> 200 people). In this role, you can have a significant impact on a wide range of Uber rider products and Uber consumers. We work on everything from enhancing rider growth and deepening engagement to growing Uber\u2019s footprint in the multi-modal trip marketplace. You will be on a super collaborative team designed to maximize your ability to deliver results. If you are motivated by building technically challenging machine learning and optimization problems in real-time and at scale, working on projects that impact every single Uber rider, knowing that every Uber rider sees and benefits from your work, and helping to drive Uber\u2019s top business metrics, then Rider Intelligence is the team for you at Uber!What You'll DoDesign and deliver software and tools to productionize the ML solutions at scale.Building scalable and shareable ML components, such as retrieval and ranking ML systems to support various ML use cases within Rider.Working closely with ML-Infrastructure teams and driving efficiencies in systems and processes through automation: configuration management, performance tuning, monitoring and root cause analysis.Helping setup the right tech / tools / processes to speed up experimentation velocityParticipate in periodic on-call rotations and be available for critical issuesBasic QualificationsBachelor\u2019s degree in Computer Science or related technical field or equivalent practical experienceExperience coding using general purpose programming language (eg. C/C++, Java, Python, Go, C#, or Javascript)Preferred QualificationsAt least ten (10) years of software engineering experienceA strong focus on execution, delivery, and customer impact.Knowledge of professional software engineering practices & influencing engineering excellence within your team across the entire development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operationsProven experience with distributed computing and enterprise-wide systemsProven experience working with ML models, technologies, and large scale retrieval and ranking systemsExperience taking a leading role in building complex software systems that have been successfully delivered to customers",
+    "JobPostTime": 1625792500,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "San Francisco",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}

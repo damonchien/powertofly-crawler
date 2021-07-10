@@ -1,0 +1,17 @@
+{
+    "JobId": "523930",
+    "JobTitle": "Staff Mobile Engineer- Uber App",
+    "JobFullDesc": "About the Role\u00a0Staff Engineers at Uber are expected to have a deep impact on a wide variety of technology decisions, spanning many projects across an entire org, and in many cases multiple orgs. We are looking for a technologist who brings experience in multiple domains to bear on building mobile applications at scale, and who ideally has in-depth knowledge of many mobile technologies, platforms, tools, frameworks and best practices.\u00a0As a Mobile Staff Engineer on the Rider Core Team, you\u2019ll provide technical leadership to all mobile engineers at Uber and influence product strategy on our flagship Uber app, that directly impacts millions of lives each day.\u00a0This is a unique opportunity for a seasoned engineer and strong collaborator who can work with talented people in product, design, data science, operations, and engineering to help build our next-generation consumer experience products. It\u2019s a very high impact role where you will interface with all major product & platform teams at Uber. The role requires strong communication, leadership and technical chops. You enjoy building solutions and guiding others equally passionately.What You'll Do\u00a0Provide technical leadership to a passionate, experienced, and diverse engineering team. Design and build the next major generations of the flagship Uber app.Develop an excellent understanding of Uber\u2019s business strategy and goals, and the Rider org\u2019s product and design goals. You will be one of our key leaders expected to identify and solve our highest impact, highly complex problems.See the big picture and identify inefficiencies and opportunities for meaningful improvements across the entire Rider org and Uber as a whole. Drive alignment on how to tackle these and lead the delivery of high leverage solutions for them to have the widest impact.Raise the bar to make Uber engineering truly best-in-class by improving best practices, producing exemplary code, documentation, automated tests and thorough and precise monitoring.Staff level engineers at Uber are exceptional mentors. They are trusted advisors for both team members and leaders alike. \u00a0Basic Qualifications5+ years experience in successfully designing and building large engineering projects, including launching more than one generation of a Mobile application to millions of users.Experience with Android or iOS application development (Java, Kotlin, Swift, ObjectiveC).Familiarity with modern mobile frameworks (Rx, IoC/DI, analytics, A/B testing, etc) and tools (e.g. build systems like Bazel).Preferred QualificationsStrong product focus and acumen.Experience creating and leading technical architecture for a large consumer focused app.Proven ability to develop other strong senior engineers into Staff engineers, operating and leading their own initiatives with org-wide scope and high impact.Experience designing and building server-side APIs and components that interface with mobile applications.",
+    "JobPostTime": 1625792594,
+    "CompName": "Uber",
+    "CompUrl": "https://powertofly.com/companies/uber",
+    "JobLocation": [
+        {
+            "@type": "PostalAddress",
+            "addressLocality": "Sunnyvale",
+            "addressRegion": "CA",
+            "addressCountry": "US"
+        }
+    ],
+    "Skills": []
+}
