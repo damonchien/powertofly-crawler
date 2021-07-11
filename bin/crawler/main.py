@@ -48,9 +48,19 @@ def Write2Json(data):
     with open(f'./output/job_{filename}.json', 'w+') as json_file:
         json.dump(data,json_file,indent=4)
 
+def WriteIn1Json(data):
+    with open(f'./output/job_{int(start_time)}_{int(end_time)}.json', 'w+') as json_file:
+        json.dump(data,json_file,indent=4)
+
 def CheckId(job_path):
     job = "job_"+job_path.split('/')[-1]+".json"
     if job not in os.listdir('./output/'):
+        return 0
+    return 1
+
+def CheckIdInJson(job_path):
+    job = "job_"+job_path.split('/')[-1]+".json"
+    if job not in [ds['JobId']for ds in data]:
         return 0
     return 1
 
@@ -61,6 +71,7 @@ def FinishDate():
     pass
 
 def main(start_time,end_time):
+    data = []
     page = 1
     status = 1
     while status:
@@ -70,8 +81,8 @@ def main(start_time,end_time):
             log.info(f"page:{page}, {len(job_list)} jobs")
 
             for job_path in job_list:
-                if CheckId(job_path):
-                    continue
+                # if CheckId(job_path):
+                #     continue
                 job_detail_dict['path'] = job_path
                 url = GetUrl(job_detail_dict,page=page)
                 job_data = GetJobDetail(url)
@@ -80,7 +91,8 @@ def main(start_time,end_time):
                 if post_time>end_time:
                     pass
                 elif (post_time<=end_time)&(post_time>=start_time):
-                    Write2Json(job_data)
+                    # Write2Json(job_data)
+                    data.append(job_data)
                 elif post_time<start_time:
                     status = 0
                     break
@@ -88,10 +100,12 @@ def main(start_time,end_time):
                     pass
 
             page += 1
+            # if page>1: status=0
         except Exception as e:
             log.exception(f"{page}-{job_path}",str(e))
             os._exit(0)
-
+    
+    WriteIn1Json(data)
     log.info(f"crawled {page} page(s)")
 
 if __name__=="__main__":
