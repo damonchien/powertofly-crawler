@@ -58,9 +58,9 @@ def CheckId(job_path):
         return 0
     return 1
 
-def CheckIdInJson(job_path):
-    job = "job_"+job_path.split('/')[-1]+".json"
-    if job not in [ds['JobId']for ds in data]:
+def CheckIdInJson(job_path,data):
+    job = job_path.split('/')[-1]
+    if int(job) not in [int(ds['JobId'])for ds in data]:
         return 0
     return 1
 
@@ -82,7 +82,8 @@ def main(start_time,end_time):
 
             for job_path in job_list:
                 # if CheckId(job_path):
-                #     continue
+                # if CheckIdInJson(job_path,data):
+                    # continue
                 job_detail_dict['path'] = job_path
                 url = GetUrl(job_detail_dict,page=page)
                 job_data = GetJobDetail(url)
@@ -100,7 +101,6 @@ def main(start_time,end_time):
                     pass
 
             page += 1
-            # if page>1: status=0
         except Exception as e:
             log.exception(f"{page}-{job_path}",str(e))
             os._exit(0)
